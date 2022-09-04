@@ -1,0 +1,239 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "Is it you? Are you the one trying to attack",
+                "the village in the middle of this night?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Huh? Did I surprise everyone that bad?",
+                "I didn't even do anything yet."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Hmph, so you were planning to attack."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I'll make this night never have happened!"
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "What the heck are you?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I'm just an umbre- wait...",
+                "Ahem, I'm a monster of your greatest nightmares! Fear me!!!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "Naturally, I can't retreat any further."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Now, are you gonna surrender the humans to me?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I've been waiting all night to surprise them!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Soon I can be a REAL youkai!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Well, there's no way someone as amateur as you could pose a threat to anyone.",
+                "But, this is still odd."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Is it because of that abnormal moon, after all?",
+                "They've only come here rarely before."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "That sounded insulting."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Anyway.",
+                "No one's saying I'm gonna eat them."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "I don't know who you are, but we don't",
+                "have time to waste for any humans."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Oh, just please be scared."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "I can't take any chances with youkai around here.",
+                "Plus, I have experience with them. There's no way I wouldn't try to stop you."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "But you seem almost pitiful."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "How awful..."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "This is just my luck.",
+                "Even though it's the dead of the night,"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "I haven't been able to scare anyone today.",
+                "Right during my golden opportunity."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "I'm pretty upset now.",
+                "That's it, I've decided I'll scare you no matter what!"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "The night is pretty unpleasent,",
+                "so I sealed the village..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "But for you to get here, did you just get lost?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Say no more! Here I come!"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Ahem."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Boo!!! Be afraid!!! Aaaaahh!"
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Surely you're scared now, right?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "It's about time for you to go home."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Although you seem weak, I won't let a single one of your danmaku",
+                "touch the humans or history of this village!"
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "No!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "I already told you, you false human,",
+                "I will scare you,"
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "No matter what!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "There! Now I must have scared you, right?",
+                "Ahahah! I did it! I can see you trembling!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I'm finally a youkai! I'm so happy!"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Your appearance doesn't match your strength. If only it'd been a full moon tonight, I could've..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Oh, right.",
+                "The moon's all different today."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "It seems it's messing with all the other youkai.",
+                "Gasp, What if I'm only this strong and scary because of the moon?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "It has to be them",
+                "There's nobody else who could do such a thing."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Then I'll need to go and scare whoever, or whatever did this into keeping it that way!"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Hey you, the lady with the strange hat, since I've won, you'll keep your promise",
+                "and tell me who it is."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Or else I'll scare you again!"
+            ]
+        }
+    }
+}

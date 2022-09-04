@@ -1,0 +1,151 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Wait, waaaait!"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "Huh?"
+            ]
+        },
+        "60_2": {
+            "lines": [
+                "Where are you going this late at night?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "I'm going to scare somebody.",
+                "I'll go wherever humans live."
+            ]
+        },
+        "63_1": {
+            "lines": [
+                "Wait, what?",
+                "You're also looking for humans?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "My job is to surprise people."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "And today's an excellent night for that.",
+                "Although I haven't seen too many people."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Maybe we could team up?",
+                "Two youkai terrorizing anyone foolish enough to be here."
+            ]
+        },
+        "67_1": {
+            "lines": [
+                "You, Umbrella..."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "Don't you have any idea who I am?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "H-huh?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "There's no human that doesn't fear me on night roads."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "If I wanted, I could call enough youkai here to eradicate",
+                "every human in this land."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Eradication? Isn't that a bit far?"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "I just wanted to surprise some people."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Though you don't seem open to cooperating"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "I'll just go on my way then."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Wait, people who annoy me don't get off that easy."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "Huh? You were looking to fight?"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "I should have taken a different route..."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Alright?",
+                "Starting tonight, you..."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "Will never again see in the dark!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ah, I can see clearly.",
+                "Didn't I tell her I was a youkai too?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "She was awfully irritable too.",
+                "Ahh! Is it possible the strange moon can be influencing others?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Then I need to find out what's going before I get affected!",
+                "Huh, wait. This road..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "That's the human village, isn't it?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "There's only humans over that way.",
+                "Just what I've been looking for, then!"
+            ]
+        }
+    }
+}

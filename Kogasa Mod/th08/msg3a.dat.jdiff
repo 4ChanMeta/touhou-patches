@@ -1,0 +1,269 @@
+{
+    "2": {
+        "61_0": {
+            "lines": [
+                "Is it you? Are you the ones trying to attack",
+                "the village in the middle of this night?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "We're just passing by,",
+                "we have no real interest in the village."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Hmph, like I'd believe the words of a youkai."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I'll make this night never have happened!"
+            ]
+        }
+    },
+    "3": {
+        "61_0": {
+            "lines": [
+                "Aah, what the heck are you?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hey, there was no need to attack us!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "So persistent."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "My sister read your mind while I fought."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "The Human Village was supposed to be here, right?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "But there's nothing here now. You locked down",
+                "the village using your ability to protect them."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "64_h1_0": {
+            "lines": [
+                "Keine Kamishirasawa"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I just made it so that the village",
+                "was invisible to your kind."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "We don't have time to stick around here."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "The Moon's gradually sinking lower as we speak."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "We're not exactly sticking, but hold on."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "It's not like I can just ignore an attempt",
+                "to fight us and lie."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "What you said is correct."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "However you are still youkai."
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "I'll protect the humans from this ill-omened night."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "How tiring."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "I can see the humans just like usual, though."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Trickery of this level isn't useful at all,",
+                "is it?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Really, what <i$are> you two?"
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "I wonder if I should conceal myself too."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "You can conceal things too?"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "And you."
+            ]
+        },
+        "80_0": {
+            "lines": [
+                "You're a half-beast, right?"
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "I'm human when the Moon isn't full."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Not unlike a human-faced dog",
+                "or a human-faced rock, then."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Why are you assuming everything but my face changes?!",
+                "I'll have you know that the transformation is full-body!"
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "Or it's like Gozu and Mezu,",
+                "where only the head turns into a beast's."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "...Oh well."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "If you're going to say that, I won't let you take it back."
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "Tonight, I'll make an imperial feast out of your history!"
+            ]
+        },
+        "88_0": {
+            "lines": [
+                "I wonder if I can write a book",
+                "from all the history you'd have."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "But sister,",
+                "Would the life of a human villager even sell?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Now I've payed you back!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "It'll be okay to put it back. We weren't thinking",
+                "anything of you and the humans here to begin with."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Then, where are you trying to go?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "To the culprits of the moon incident."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "It looks like you know who they are."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "If you're after the ones behind the recent unusual Moon,",
+                "they're that way."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "We know."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "No more reason to stay here then."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Sister, how are you feeling?",
+                "Was her history too much?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "It'd be worse if I didn't go over all the mundane things."
+            ]
+        }
+    }
+}
