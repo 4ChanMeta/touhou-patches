@@ -3,3 +3,5 @@ the shot types are also wildly unbalanced. while i could try to make up a reason
 hope you didn't mind all the patch's inconsistencies and bugs too much. i got the help of a bunch of lovely people from the zuncode server at https://discord.gg/NJhrdVBmrF to make this.
 thats about all. maybe ill make more in the future.
 art of the sprites by dairi on pixiv
+
+so yea. after playing isc, pofv and podd and seeing kogasa's dialogue i felt like she and other character should be playable. kogasa's stuff was first which is why its pretty sloppy. the others are more for fun but more refined i suppose i made while bored. i think i wanted to add more, but don't remember anything else i wanted to say. thank you for reading this and downloading my patch, my discord is Kogasa📈#8100 if you'd like to get in contact. have a nice day 
