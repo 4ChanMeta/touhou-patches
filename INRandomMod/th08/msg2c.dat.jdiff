@@ -1,0 +1,132 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Wait, waaaait!"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "You're seriously annoying.",
+                "I'll kill you instantly!"
+            ]
+        },
+        "60_2": {
+            "lines": [
+                "Eeek! I didn't even do anything yet!",
+                "What are you, a devil? I thought you were some humans at last."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "But humans are what I'm after. I don't need devils."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Please do not take anything she says seriously. We're just in a hurry."
+            ]
+        },
+        "63_1": {
+            "lines": [
+                "Both of you are so weird.",
+                "This area is my spot anyways."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "How about you get out already!"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "We are in a hurry.",
+                "But our dream princess friend has a few words to say."
+            ]
+        },
+        "66_1": {
+            "lines": [
+                "Agh! I shouldn't have said \"wait\"!"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Night sparrows like you are seriously annoying when I'm dreaming."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "If I just beat you up now, I can relive my anger.",
+                "I'll fill you to the brim with hourai bullets!"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Whoops, now she wants to fight. I hope you're prepared."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Oh, quit joking around!"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Aren't you scared by birds flying in the night?"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "This princess here is from the dream world.",
+                "Dream residents are 10x more expressive than their normal selves."
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "It's rare I get to visit here.",
+                "So I need to make the most of my time now!"
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "Whatever.",
+                "I'll show you the true terror of darkness!"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "\"Terror of darkness,\" huh...?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "I hope you're calm enough now to",
+                "not cause any more disruptions for the rest of our trip."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "I can't make any promises, sleep cow.",
+                "The night is short."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Speaking of which, why are we headed",
+                "in this direction?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "To see more insects."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "..."
+            ]
+        }
+    }
+}

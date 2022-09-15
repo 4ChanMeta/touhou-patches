@@ -1,0 +1,108 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Where do you plan on going next?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Heh heh. Let's see"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "If that bug we saw before shows up again..."
+            ]
+        },
+        "62_1": {
+            "lines": [
+                "Say \"if she shows up,\" and I'll show up right away!"
+            ]
+        },
+        "123_0": {
+            "lines": [
+                "And now, I've showed up.",
+                "How about you hand that young lady over!"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Good, you're here.",
+                "Bugs are such poor things, aren't they?"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "They say a half-inch bug has only one-tenth an inch of soul."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "That's 80%% smaller."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Is that supposed to sound frightening?"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "No, it just sounds cruel."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "Very well, then.",
+                "We have no time for bugs like you, you see."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "The fact that you're not interested is what's worrying me."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Humans might get away with simply being fodder,",
+                "but things lower than them..."
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "*sigh*. There's such a thing as being <i$too> merciless."
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "Eeeek!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Ahh. The fireflies have been more numerous too, lately.",
+                "It's beautiful."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Your words don't",
+                "match your actions, though."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I changed the subject partway through."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "...",
+                "..."
+            ]
+        }
+    }
+}

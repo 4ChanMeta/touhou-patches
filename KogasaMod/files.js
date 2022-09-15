@@ -165,13 +165,13 @@
 	"th08/msg8a.dat.jdiff": 2229143012,
 	"th08/msg8b.dat.jdiff": 3785060785,
 	"th08/msg8c.dat.jdiff": 1410141688,
-	"th08/ply00a.sht": 350364859,
-	"th08/ply00as.sht": 4099998153,
+	"th08/ply00a.sht": 3439180309,
+	"th08/ply00as.sht": 1443975539,
 	"th08/ply01a.sht": 3792108273,
 	"th08/ply01as.sht": 1810197089,
 	"th08/ply02a.sht": 1917805829,
 	"th08/ply02as.sht": 28966159,
-	"th08/random.txt": 951261867,
+	"th08/random.txt": 117702705,
 	"th08/stage8.std": 2067094210,
 	"th08/stage8_s.std": 3750778210
 }
