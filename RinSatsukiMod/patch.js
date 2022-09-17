@@ -4,7 +4,7 @@
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order"
 	],
-	"id": "INRandomMod",
+	"id": "RinSatsukiMod",
 	"servers": [
 		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/"
 	],
