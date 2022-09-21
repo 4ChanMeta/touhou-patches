@@ -1,0 +1,113 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Keiki  $Marisa  >The Primate Spirit Garden in the Animal Realm."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A keyhole-shaped forest."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "The interior is filled with strange technology."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Keiki  >\"You want to take a look around the Primate Spirit Garden?"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Go ahead. You're always welcome here.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Okuu  >\"Ah, thanks.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Keiki  >\"As long as you're not possessed by a beast spirit, you're one of our allies, after all.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Okuu  >\"I dunno about being an ally, and in the first place",
+                "<l$> I have no clue what you're even fighting over.\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Keiki  >\"I can't see you as an ally of the beast spirits, though."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$> What do you think about cooperating with the human spirits in changing the Animal Realm?"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> If you do, you'll be free to use anything in the Primate Spirit Garden to your heart's content.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Okuu  >\"Nah, I'd rather go back to former hell and play with Orin and Koishi.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Keiki  >\"Really? As a bonus, I'll make a 1/8 figure of you."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> I can even make it cooler than the real thing.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Okuu  >\"Um, I'll have to decline.\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Keiki  >\"Hohoho, the 1/8 was a joke."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> If I'm going to make one, it'll have to be life-size, right?\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "To both of each other, they just seemed simple-minded, and didn't seem",
+                "to have any ambitions."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "It was hard to imagine why the beast spirits",
+                "treated them so strongly."
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<c$Ending No. 06 — The Animal Realm Wasn't Straightforward$>"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "Congratulations!",
+                "Good job on your No Continue Clear!"
+            ]
+        }
+    }
+}
