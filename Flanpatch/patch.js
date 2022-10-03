@@ -8,5 +8,5 @@
 	"servers": [
 		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/Flanpatch/"
 	],
-	"title": "Flanpatch (11) Mod that adds Flandre Scarlet as playable to Touhou SA Subterranean Animism"
+	"title": "(VERY WIP, DONT PLAY) Flanpatch (11) Mod that adds Flandre Scarlet as playable to Touhou SA Subterranean Animism"
 }
