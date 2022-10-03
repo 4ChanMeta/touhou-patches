@@ -1,0 +1,116 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "The wind's pretty strong for the",
+                "inside of a cave."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$??? >(...Marisa?",
+                "<l$> Can you hear me?...)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "No, I can't hear you at all.",
+                "I'm still normal."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "<t$Alice >(...I see.",
+                "<l$> Should I take back my dolls, then?)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Huh, so I can use them to talk to you,",
+                "not just for attacking."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "<t$Alice >(Yukari prepared them for me.)"
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Oh?",
+                "A human? How unusual."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Are you going to the festival they're having down below?",
+                "You look like it."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "<t$Alice >(Indeed.)"
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "I'm not really interested in the underground."
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "I mean, we'd finally gotten a hot spring up there."
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Why do I have to come to such a wet and gloomy place",
+                "all of a sudden?"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Alice >(We'd be in trouble if you hadn't come.)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "<t$Alice >(After all, we can't make a move",
+                "<l$> down there.)"
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "What are you mumbling about?"
+            ]
+        },
+        "218_0": {
+            "lines": [
+                "Just talking to myself about how to beat you."
+            ]
+        },
+        "226_0": {
+            "lines": [
+                "It looks like you're not that friendly of a visitor."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "See, all we've done is beat up someone completely unrelated."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Alice >(Isn't that what you always do?",
+                "<l$> Just stop complaining and hurry on further down.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Well, I guess it is what I always do."
+            ]
+        }
+    }
+}

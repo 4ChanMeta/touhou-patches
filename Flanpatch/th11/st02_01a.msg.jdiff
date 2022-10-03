@@ -1,0 +1,118 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "How many floors to go until we're underground?"
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Alice >(There aren't any \"floors\" in a cave.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "Really? I thought places like dungeons",
+                "always had floors."
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "You're now on floor B666."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Welcome to the end of the underground skyscraper."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "See? I told you there were floors.",
+                "It'd be hard to tell how far you'd gone if there weren't."
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "<t$Alice >(I'm sure you could tell based on",
+                "<l$> how much time you'd spent.)"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "<t$Alice >(But, there's an enemy here, right?)"
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "Yeah, yeah, I'll beat her up now."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "A human going to the Former Capital who talks",
+                "to herself a lot... Are you crazy?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "Hey, didn't we just",
+                "bump into you before?"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "That means you're the boss of the dungeon, right?"
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Alice >(Yes, she's the boss.)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "I wouldn't recommend that you treat",
+                "going underground like a game."
+            ]
+        },
+        "210_0": {
+            "lines": [
+                "You might be trying to get experience points,",
+                "but you'll just be wasting time in the end."
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Yeah, I guess I've been wasting time.",
+                "I didn't get much at all for that."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Alice >(H-hurry up.",
+                "<l$> We're almost to our destination.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Oh? Finally...",
+                "Wait, where were we going?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Alice >(The Former Capital where",
+                "<l$> the sealed-away youkai live.)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hm.",
+                "It's nice that the dungeon was so short."
+            ]
+        }
+    }
+}
