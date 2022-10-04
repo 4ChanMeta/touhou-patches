@@ -7,6 +7,7 @@
 		"KogasaMod": "Kogasa Mod (08) Mod that adds Kogasa, Koishi, Satori, Mugetsu, and Gengetsu to Touhou 08 Imperishable Night",
 		"OkuuMod": "OkuuMod (17) Mod that adds Utsuho Reiuji to Touhou WBaWC.",
 		"ReimuHsifs": "ReimuHsifs (06-18) Mod that makes Reimu's homing bullets look like the ones from Hsifs.",
+		"ReimuHsifsPlus": "ReimuHsifsPlus (13-18) ReimuHsifs mod but makes the bullets behave like hsifs too (perma homing).",
 		"RinSatsukiMod": "RinSatsuki (06) Mod that adds Rin Satsuki to Touhou EOSD Embodiment of Scarlet Devil",
 		"YukariCtcMod": "YukariCtc (07) Mod that replaces Yukari's PCB theme with the CTC Night Falls ~ Evening Star."
 	},
