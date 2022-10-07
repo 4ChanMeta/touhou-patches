@@ -9,7 +9,7 @@
 		"ReimuHsifs": "ReimuHsifs (06-18) Mod that makes Reimu's homing bullets look like the ones from Hsifs.",
 		"ReimuHsifsPlus": "ReimuHsifsPlus (13-18) ReimuHsifs mod but makes the bullets behave like hsifs too (perma homing).",
 		"RinSatsukiMod": "RinSatsuki (06) Mod that adds Rin Satsuki to Touhou EOSD Embodiment of Scarlet Devil",
-		"YukariCtcMod": "YukariCtc (07) Mod that replaces Yukari's PCB theme with the CTC Night Falls ~ Evening Star."
+		"YukariCtcMod": "YukariCtc (07) Mod that replaces Yukari's PCB theme with the CTC Night Falls ~ Evening Star and Ran's theme with her ghostly field club one."
 	},
 	"servers": [
 		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/"
