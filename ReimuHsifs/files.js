@@ -11,7 +11,7 @@
 	"th11/player/pl00/pl00c.png": 2165896088,
 	"th11/player/pl00/pl00d.png": 2099181598,
 	"th11/player/pl00/pl00e.png": 2853245595,
-	"th12/player/pl00/pl00.png": 739385676,
+	"th12/player/pl00/pl00.png": 2780215735,
 	"th12/player/pl00/pl00b.png": 2492784926,
 	"th13/player/pl00/pl00.png": 1956645233,
 	"th13/player/pl00/pl00b.png": 2492784926,
