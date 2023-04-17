@@ -3,13 +3,7 @@
 	"id": "Kogasa",
 	"patches": {
 		"EnemyNotification": "EnemyNotification (13-18, 14.3) Mod that makes the enemy marker more visible in some of the later games.",
-<<<<<<< HEAD
-<<<<<<< HEAD
 		"FlanPatch": "FlanPatch (11) (WIP) Mod that makes Flandre playable in SA.",
-=======
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
-=======
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
 		"INRandomMod": "INRandom (08) Mod that adds the Aki sisters, Nitori, Takane, Kaguya, and Doremy to Touhou 08 Imperishable Night",
 		"KogasaMod": "Kogasa Mod (08) Mod that adds Kogasa, Koishi, Satori, Mugetsu, and Gengetsu to Touhou 08 Imperishable Night",
 		"OkuuMod": "OkuuMod (17) Mod that adds Utsuho Reiuji to Touhou WBaWC.",
