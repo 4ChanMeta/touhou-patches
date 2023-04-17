@@ -32,21 +32,13 @@
         },
         "50_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Look, it's the extra stage",
-=======
-                "<t$Alice >(Look, it's the extra dungeon",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> for after you beat the game. Good luck!)"
             ]
         },
         "58_0": {
             "lines": [
-<<<<<<< HEAD
                 "So I can't use continues?"
-=======
-                "Geez, who started that, anyway?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "66_0": {
@@ -57,42 +49,26 @@
         },
         "74_0": {
             "lines": [
-<<<<<<< HEAD
                 "If there's always an extra stage,",
-=======
-                "If there's always an extra dungeon,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "then the last boss just becomes a midboss!"
             ]
         },
         "82_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Don't be so blunt.",
-=======
-                "<t$Alice >(Don't be so blunt.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> Look, according to the hell raven,)"
             ]
         },
         "90_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(She got the power of nuclear fusion",
-=======
-                "<t$Alice >(She got the power of nuclear fusion",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> from the gods of the mountain, right?)"
             ]
         },
         "98_0": {
             "lines": [
                 "Yeah, that's right.",
-<<<<<<< HEAD
                 "But I thought this was Sakuya's duty?"
-=======
-                "I came here to get some sort of divine blessing, too."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "106_0": {
@@ -147,11 +123,7 @@
         },
         "238_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(What's the divine blessing of the Moriya Shrine,",
-=======
-                "<t$Alice >(What's the divine blessing of the Moriya Shrine,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> anyway?)"
             ]
         },
@@ -169,30 +141,18 @@
         },
         "262_0": {
             "lines": [
-<<<<<<< HEAD
                 "Okuu?"
-=======
-                "Who's Okuu?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "270_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(She's talking about that hell raven,",
-=======
-                "<t$Alice >(She's talking about that hell raven,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> Utsuho.)"
             ]
         },
         "278_0": {
             "lines": [
-<<<<<<< HEAD
                 "Oh, I get it. Tt's because her name's written with the kuu character for \"empty.\"",
-=======
-                "Oh, it's 'cuz her name's written with the kuu character for \"empty.\"",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "That poor girl who got demoted to midboss."
             ]
         },
@@ -204,13 +164,8 @@
         },
         "294_0": {
             "lines": [
-<<<<<<< HEAD
                 "I'm Flandre Scarlet.",
                 "Would you like to learn more?"
-=======
-                "I'm the great magician, Marisa Kirisame.",
-                "Don't forget it!"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "302_0": {
@@ -237,11 +192,7 @@
         },
         "334_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Are you Ms. Satori's younger sister!?)"
-=======
-                "<t$Alice >(Are you Ms. Satori's younger sister!?)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "342_0": {
@@ -262,20 +213,12 @@
         },
         "366_0": {
             "lines": [
-<<<<<<< HEAD
                 "Like I said, I'm Flandre!"
-=======
-                "Like I said, I'm Marisa, the Great Sage!"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "374_0": {
             "lines": [
-<<<<<<< HEAD
                 "Are you the vampire that",
-=======
-                "Are you the doll-using thief that",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "they said visited our house?"
             ]
         },
@@ -286,11 +229,7 @@
         },
         "390_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Tee hee.)"
-=======
-                "<t$Alice >(Tee hee.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "398_0": {
@@ -306,13 +245,8 @@
         },
         "414_0": {
             "lines": [
-<<<<<<< HEAD
                 "Destruction is bad, okay?",
                 "Ms. Vampire."
-=======
-                "Stealing is bad, okay?",
-                "Ms. Above Ground Human."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "422_0": {
@@ -334,11 +268,7 @@
         },
         "446_0": {
             "lines": [
-<<<<<<< HEAD
                 "That vampire dodged danmaku just like bits",
-=======
-                "That thief dodged danmaku just like bits",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "of paper dancing in the air."
             ]
         },
@@ -369,11 +299,7 @@
         },
         "46_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Was it really that easy?)"
-=======
-                "<t$Alice >(Was it really that easy?)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "54_0": {
@@ -395,11 +321,7 @@
         },
         "78_0": {
             "lines": [
-<<<<<<< HEAD
                 "So, umm,",
-=======
-                "So, uh,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "can you read minds, too?"
             ]
         },
@@ -438,11 +360,7 @@
         },
         "134_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(What a shame. You could",
-=======
-                "<t$Alice >(What a shame. You could",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> control people easily with that kind of power.)"
             ]
         },
@@ -477,21 +395,13 @@
         },
         "182_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(What?",
-=======
-                "<t$Alice >(What?",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> Don't tell me you're done here?)"
             ]
         },
         "190_0": {
             "lines": [
-<<<<<<< HEAD
                 "Well, Sakuya will take care of seeing if there's",
-=======
-                "Well, Reimu will take care of seeing if there's",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "anything between the underground and the mountain gods."
             ]
         },
@@ -502,11 +412,7 @@
         },
         "206_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(You're so easygoing.",
-=======
-                "<t$Alice >(You're so easygoing.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> Maybe I should look into it myself, later?)"
             ]
         },
@@ -517,42 +423,25 @@
         },
         "222_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(...?",
-=======
-                "<t$Alice >(...?",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> What?)"
             ]
         },
         "230_0": {
             "lines": [
                 "The shrine's as empty as a snake's husk right now.",
-<<<<<<< HEAD
                 "But my sister was right, this is a good playmate."
-=======
-                "It's the perfect time to go fishing (for valuables)."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "238_0": {
             "lines": [
-<<<<<<< HEAD
                 "Oh my, should you even be out here?"
-=======
-                "Oh my, thieving is bad, you know?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "246_0": {
             "lines": [
-<<<<<<< HEAD
                 "——<i$\"Later, Sakuya and the others caught Kanako>",
                 "<i$       and asked her some questions.\">"
-=======
-                "——<i$\"Later, Kanako and the others caught Marisa>",
-                "<i$       rummaging through their house.\">"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "254_0": {

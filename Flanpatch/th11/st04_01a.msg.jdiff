@@ -2,50 +2,29 @@
     "0": {
         "34_0": {
             "lines": [
-<<<<<<< HEAD
                 "This place nearly rivals the Scarlet Devil Mansion."
-=======
-                "And here the last dungeon comes to a finale."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "42_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(You shouldn't say that. Ours is obviously better.)"
-=======
-                "<t$Alice >(That's right, are you prepared for it?)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "50_0": {
             "lines": [
-<<<<<<< HEAD
                 "Ah, I don't really remember much of the interior either way."
-=======
-                "Ah, I should've done some shopping in the town back there."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "58_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(But, it doesn't look like there's anyone here.",
-=======
-                "<t$Alice >(But, it doesn't look like there're any townsfolk here.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> ...There was a cat, though.)"
             ]
         },
         "66_0": {
             "lines": [
-<<<<<<< HEAD
                 "It's alright. Playing with the owners who refuse",
                 "to come out is the basic of basics."
-=======
-                "It's all good. Searching a house with nobody in it is",
-                "the basic of basics."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "74_0": {
@@ -55,41 +34,24 @@
         },
         "142_0": {
             "lines": [
-<<<<<<< HEAD
                 "A vampire...?",
                 "I can't believe a vampire could make it all the way down here."
-=======
-                "A human...?",
-                "I can't believe a human could make it all the way down here."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "150_0": {
             "lines": [
-<<<<<<< HEAD
                 "It's alright. Playing with the owner who's come out is also",
-=======
-                "It's all good. Searching a house with somebody in it is also",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "the basic of basics."
             ]
         },
         "158_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Why don't you listen to what she has to say?)"
-=======
-                "<t$Alice >(Why don't you listen to what she has to say?)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "166_0": {
             "lines": [
-<<<<<<< HEAD
                 "Hmm, well, I want the hot spring to gush more.",
-=======
-                "Aah, well, I want the hot spring to gush more.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "What should I do?"
             ]
         },
@@ -134,51 +96,30 @@
         },
         "230_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(...A satori!",
-=======
-                "<t$Alice >(...A satori!",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> She's a youkai exiled from the surface.)"
             ]
         },
         "238_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(She has an extremely dangerous ability,",
                 "<l$> mind reading. Can't you destroy her third eye?)"
-=======
-                "<t$Alice >(She has an extremely dangerous ability,",
-                "<l$> mind reading. There's no way you can win.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "246_0": {
             "lines": [
-<<<<<<< HEAD
                 "Nothing I can't overcome, I'm sure,"
-=======
-                "Yuck, I don't like this."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "254_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(I can't believe we were led here just by",
-=======
-                "<t$Alice >(I can't believe we were led here just by",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> investigating that geyser.)"
             ]
         },
         "262_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Perhaps the oni back there",
-=======
-                "<t$Alice >(Perhaps the oni back there",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> tricked us?)"
             ]
         },
@@ -212,11 +153,7 @@
         },
         "310_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Flandre... You....)"
-=======
-                "<t$Alice >(Marisa... You....)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "318_0": {
@@ -289,11 +226,7 @@
         },
         "70_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Pet?",
-=======
-                "<t$Alice >(Pet?",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> Oh, like that cat?)"
             ]
         },
@@ -318,30 +251,18 @@
         "102_0": {
             "lines": [
                 "Hey, so I guess this place isn't",
-<<<<<<< HEAD
                 "the source off the incident?"
-=======
-                "the last dungeon?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "110_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(We still have a long way to go. Let's go to",
-=======
-                "<t$Alice >(We still have a long way to go. Let's go to",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> the depths of the underworld. Hang in there.)"
             ]
         },
         "118_0": {
             "lines": [
-<<<<<<< HEAD
                 "\"Before that, I want to destroy that eye...\" you think."
-=======
-                "\"Before that, let's search the house....\" you think."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "126_0": {
@@ -352,11 +273,7 @@
         },
         "134_0": {
             "lines": [
-<<<<<<< HEAD
                 "Oh!"
-=======
-                "Damn."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         }
     }

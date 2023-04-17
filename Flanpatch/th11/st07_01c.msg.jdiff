@@ -27,33 +27,19 @@
         },
         "42_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Sakuya should have been investigating here.",
                 "<l$> Yet there's not a soul around.)"
-=======
-                "<t$Nitori >(The rivers freeze over in the winter.",
-                "<l$> It makes life easy for us.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "50_0": {
             "lines": [
-<<<<<<< HEAD
                 "Maybe the gods left and she went chasing?",
                 "Wouldn't they normally be here?"
-=======
-                "The rivers freezing makes it easy on you?",
-                "Why's that?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "58_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(I knew it. Humans were useless.)"
-=======
-                "<t$Nitori >(It's actually warm underneath the ice.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "66_0": {
@@ -63,24 +49,14 @@
         },
         "74_0": {
             "lines": [
-<<<<<<< HEAD
                 "Why can't I finally enjoy some hot springs?",
                 "I have to be up on this mountain..."
-=======
-                "Why are you talking to me like this",
-                "when I'm on the mountain?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "82_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Just to double check.",
                 "<l$> Nobody else back here can do it.)"
-=======
-                "<t$Nitori >(I guess it's become a habit.",
-                "<l$> Besides, I don't wanna leave the water.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "90_0": {
@@ -90,21 +66,13 @@
         },
         "98_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Like I said, I'll share the nuclear energy",
-=======
-                "<t$Nitori >(I'll share our nuclear energy",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> with you if you want.)"
             ]
         },
         "106_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(We tamed the crow in charge of it,",
-=======
-                "<t$Nitori >(We tamed the crow in charge of it,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> so now we just have to go tell the god of the mountain.)"
             ]
         },
@@ -125,11 +93,7 @@
         },
         "198_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(You liar, we just saw someone.)"
-=======
-                "<t$Nitori >(You liar, we just saw someone.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "206_0": {
@@ -151,11 +115,7 @@
         },
         "230_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Hmm. It looks like the gods",
-=======
-                "<t$Nitori >(Hmm. It looks like the gods",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> aren't here today. Let's come back later.)"
             ]
         },
@@ -195,21 +155,13 @@
         },
         "286_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Flandre, she might want to get her",
-=======
-                "<t$Nitori >(Marisa, she might want to get her",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> hands on fusion energy, too.)"
             ]
         },
         "294_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Be careful.)"
-=======
-                "<t$Nitori >(Be careful.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "302_0": {
@@ -220,11 +172,7 @@
         },
         "310_0": {
             "lines": [
-<<<<<<< HEAD
                 "Hmm, well...",
-=======
-                "But man,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "those mountain gods have a pretty nice shrine, don't they?"
             ]
         },
@@ -236,13 +184,8 @@
         },
         "326_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(We're not gonna hand it over!",
                 "<l$> Take her down, Flandre!)"
-=======
-                "<t$Nitori >(We're not gonna hand it over!",
-                "<l$> Take her down, Marisa!)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "334_0": {
@@ -253,31 +196,19 @@
         },
         "342_0": {
             "lines": [
-<<<<<<< HEAD
                 "Hmm, you're the vampire that came to the underground,",
-=======
-                "Hmm, you're the human that came to the underground,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "aren't you?"
             ]
         },
         "350_0": {
             "lines": [
-<<<<<<< HEAD
                 "Sis mentioned a weird vampire",
-=======
-                "Sis mentioned a weird human",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "with orbs that disturbed our home."
             ]
         },
         "358_0": {
             "lines": [
-<<<<<<< HEAD
                 "Your sister? Underground?"
-=======
-                "Your sister?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "366_0": {
@@ -294,13 +225,8 @@
         },
         "382_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Hey, Flandre",
                 "<l$> What are you doing? Hurry up and get her out of here!)"
-=======
-                "<t$Nitori >(Hey, Marisa",
-                "<l$> What are you doing? Hurry up and get her out of here.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "390_0": {
@@ -375,11 +301,7 @@
         },
         "78_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(So what did you come here for?)"
-=======
-                "<t$Nitori >(So what did you come here for?)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "86_0": {
@@ -396,21 +318,13 @@
         },
         "102_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(That's too bad. These gods probably",
-=======
-                "<t$Nitori >(That's too bad. These gods probably",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> won't do anything that won't benefit them.)"
             ]
         },
         "110_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(The only reason your house's pet got",
-=======
-                "<t$Nitori >(The only reason your house's pet got",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> nuclear fusion power is because it helped their plans.)"
             ]
         },
@@ -459,11 +373,7 @@
         },
         "182_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(...Wow, everybody hates them.)"
-=======
-                "<t$Nitori >(...Wow, everybody hates them.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "190_0": {
@@ -486,11 +396,7 @@
         },
         "214_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Well, I, uh...)"
-=======
-                "<t$Nitori >(Well, I, uh...)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "222_0": {
@@ -511,11 +417,7 @@
         },
         "246_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Whatever, I'll be fine. If you want",
-=======
-                "<t$Nitori >(Whatever, I'll be fine. If you want",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> to go back underground, you can go by yourself.)"
             ]
         },

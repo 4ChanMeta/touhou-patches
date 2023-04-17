@@ -2,32 +2,19 @@
     "0": {
         "34_0": {
             "lines": [
-<<<<<<< HEAD
                 "Hey... do you think we'll find anyone here.",
                 "This place looks empty."
-=======
-                "Hm, that person who's making the geyser...",
-                "Will we meet them in this mansion?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "42_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Patchy says there should be more to",
-=======
-                "<t$Nitori >(There should be more to",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> the underground than just the Former Capital.)"
             ]
         },
         "50_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(There has to be a way for us",
-=======
-                "<t$Nitori >(There has to be a way for us",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> to go even deeper.)"
             ]
         },
@@ -39,33 +26,20 @@
         },
         "66_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(You can tell the heat is coming from",
-=======
-                "<t$Nitori >(You can tell the heat is coming from",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> beneath this mansion.)"
             ]
         },
         "74_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(It looks like there's a hole somewhere",
-=======
-                "<t$Nitori >(It looks like there's a hole somewhere",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> where we can go down.)"
             ]
         },
         "82_0": {
             "lines": [
-<<<<<<< HEAD
                 "A hole?",
                 "How deep does this place get?"
-=======
-                "Hm, do you know something I don't?",
-                "Oh well, if you're house hunting, I don't mind helping."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "90_0": {
@@ -75,11 +49,7 @@
         },
         "158_0": {
             "lines": [
-<<<<<<< HEAD
                 "Are you a vampire?",
-=======
-                "Are you human?",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "No, you wouldn't be able to get this far."
             ]
         },
@@ -91,13 +61,8 @@
         },
         "174_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Is she the owner?",
                 "<l$> She doesn't look very strong.)"
-=======
-                "<t$Nitori >(Good luck~",
-                "<l$> She looks kind of strong, though.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "182_0": {
@@ -120,30 +85,18 @@
         "206_0": {
             "lines": [
                 "Huh?",
-<<<<<<< HEAD
                 "What are you talking about?"
-=======
-                "Did I say somethin'?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "214_0": {
             "lines": [
                 "You want a hot spring, don't you?",
-<<<<<<< HEAD
                 "So you're pretending to cooperate with your sister..."
-=======
-                "So you're pretending to cooperate with the kappa."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "222_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Huh?)"
-=======
-                "<t$Nitori >(Hah?)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "230_0": {
@@ -160,11 +113,7 @@
         "246_0": {
             "lines": [
                 "I can tell everything you're thinking.",
-<<<<<<< HEAD
                 "My third eye shows me... Ms. Flandre."
-=======
-                "My third eye shows me... Ms. Marisa."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "254_0": {
@@ -175,21 +124,13 @@
         },
         "262_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Hey, just beat her up already.)"
-=======
-                "<t$Nitori >(Hey, just beat her up already.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "270_0": {
             "lines": [
                 "Huh, huuh? Well, okay.",
-<<<<<<< HEAD
                 "I guess I'll just have to beat her and find that hole."
-=======
-                "I guess I'll just have to beat her 'n' search the house."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "278_0": {
@@ -222,11 +163,7 @@
         },
         "318_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Just clear your mind and fight her.)"
-=======
-                "<t$Nitori >(Just clear your mind and fight her.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "326_0": {
@@ -243,11 +180,7 @@
         "342_0": {
             "lines": [
                 "Well, it's been so long since I've seen",
-<<<<<<< HEAD
                 "a vampire, so we may as well fight a bit."
-=======
-                "a human, so we may as well fight a bit."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "350_0": {
@@ -258,11 +191,7 @@
         "358_0": {
             "lines": [
                 "With those beautiful danmaku, I'll chase you",
-<<<<<<< HEAD
                 "back up to your basement!"
-=======
-                "back up to your lukewarm above-ground world!"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         }
     },
@@ -283,20 +212,12 @@
         "30_0": {
             "lines": [
                 "Hm, you're quite strong.",
-<<<<<<< HEAD
                 "It's nice to fight with vampires."
-=======
-                "It's nice to fight with humans."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "38_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(...Oh, those were my danmaku.",
-=======
-                "<t$Nitori >(...Oh, those were my danmaku.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> They were ever so slightly different, though.)"
             ]
         },
@@ -321,20 +242,12 @@
         "70_0": {
             "lines": [
                 "Okay.",
-<<<<<<< HEAD
                 "Oh yeah, Remilia, I still wanna know what you're up to."
-=======
-                "Oh yeah, Nitori, I still wanna know what you're up to."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "78_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(...Oh, right. I'm interested in the youkai",
-=======
-                "<t$Nitori >(...Oh, right. I'm interested in the youkai",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> at the base of the geyser.)"
             ]
         },
@@ -345,43 +258,25 @@
         },
         "94_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Well, it doesn't have anything to do with you.",
-=======
-                "<t$Nitori >(Well, it doesn't have anything to do with you.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> It's personal business!)"
             ]
         },
         "102_0": {
             "lines": [
-<<<<<<< HEAD
                 "Is this for one of your crazy experiments?",
                 "Well, whatever."
-=======
-                "I just don't get what you're saying. I thought",
-                "we were going to make off with equal shares."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "110_0": {
             "lines": [
-<<<<<<< HEAD
                 "\"But anything I find is all mine.\"",
                 "I'd watch out, Ms. Vampire inside the orbs."
-=======
-                "\"But any treasure I find is all mine.\"",
-                "I'd watch out, Ms. Kappa inside the orbs."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "118_0": {
             "lines": [
-<<<<<<< HEAD
                 "Okay okay!",
-=======
-                "Uhyo!",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "Moving right along now..."
             ]
         }

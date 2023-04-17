@@ -2,80 +2,45 @@
     "0": {
         "34_0": {
             "lines": [
-<<<<<<< HEAD
                 "How much longer until we're underground?"
-=======
-                "How many floors to go until we're underground?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "42_0": {
             "lines": [
-<<<<<<< HEAD
                 "<tMeiling >(Be patient, we'll be there soon.)"
-=======
-                "<t$Alice >(There aren't any \"floors\" in a cave.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "50_0": {
             "lines": [
-<<<<<<< HEAD
                 "Really? I feel like I've been here forever.",
                 "It's so boring."
-=======
-                "Really? I thought places like dungeons",
-                "always had floors."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "58_0": {
             "lines": [
-<<<<<<< HEAD
                 "Boring, you say?"
-=======
-                "You're now on floor B666."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "130_0": {
             "lines": [
-<<<<<<< HEAD
                 "Welcome to the end of your fun-time."
-=======
-                "Welcome to the end of the underground skyscraper."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "138_0": {
             "lines": [
-<<<<<<< HEAD
                 "See? I told you there's nothing interesting here.",
                 "I'd better get over this quickly."
-=======
-                "See? I told you there were floors.",
-                "It'd be hard to tell how far you'd gone if there weren't."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "146_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Flandre, that's an enemy.",
                 "<l$> Maybe that will bring you some fun.)"
-=======
-                "<t$Alice >(I'm sure you could tell based on",
-                "<l$> how much time you'd spent.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "154_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Go see if she's connected to the incident.)"
-=======
-                "<t$Alice >(But, there's an enemy here, right?)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "162_0": {
@@ -85,41 +50,24 @@
         },
         "170_0": {
             "lines": [
-<<<<<<< HEAD
                 "A vampire going to the Former Capital who talks",
-=======
-                "A human going to the Former Capital who talks",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "to herself a lot... Are you crazy?"
             ]
         },
         "178_0": {
             "lines": [
-<<<<<<< HEAD
                 "Hey, are you connected at all",
                 "to what's going on?"
-=======
-                "Hey, didn't we just",
-                "bump into you before?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "186_0": {
             "lines": [
-<<<<<<< HEAD
                 "If I met you here, that means you have to be, right?"
-=======
-                "That means you're the boss of the dungeon, right?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "194_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Yes, she's the boss.)"
-=======
-                "<t$Alice >(Yes, she's the boss.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "202_0": {
@@ -130,36 +78,22 @@
         },
         "210_0": {
             "lines": [
-<<<<<<< HEAD
                 "You talk about fun and winning a whole lot.",
                 "I wonder how it feels to be so scatterbrained and carefree."
-=======
-                "You might be trying to get experience points,",
-                "but you'll just be wasting time in the end."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         }
     },
     "1": {
         "30_0": {
             "lines": [
-<<<<<<< HEAD
                 "That wasn't very fun.",
-=======
-                "Yeah, I guess I've been wasting time.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "I didn't get much at all for that."
             ]
         },
         "38_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(So she wasn't very useful",
                 "<l$> But we're almost to our destination.)"
-=======
-                "<t$Alice >(H-hurry up.",
-                "<l$> We're almost to our destination.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "46_0": {
@@ -170,22 +104,14 @@
         },
         "54_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(The Former Capital where",
-=======
-                "<t$Alice >(The Former Capital where",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> the sealed-away youkai live.)"
             ]
         },
         "62_0": {
             "lines": [
                 "Hm.",
-<<<<<<< HEAD
                 "It's nice that the trip was so short."
-=======
-                "It's nice that the dungeon was so short."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         }
     }

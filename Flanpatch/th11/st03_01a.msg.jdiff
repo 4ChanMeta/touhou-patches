@@ -45,11 +45,7 @@
         },
         "50_0": {
             "lines": [
-<<<<<<< HEAD
                 "No, but, this is the underground world, right?"
-=======
-                "No, uh, this is the underground world, right?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "58_0": {
@@ -70,11 +66,7 @@
         },
         "82_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Flandre, we've made it to the city,",
-=======
-                "<t$Alice >(Marisa, we've made it to the city,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> so let's try to get some information.)"
             ]
         },
@@ -97,11 +89,7 @@
         },
         "114_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Big Four...?",
-=======
-                "<t$Alice >(Big Four...?",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> Of the Mountain...??)"
             ]
         },
@@ -124,61 +112,35 @@
         },
         "146_0": {
             "lines": [
-<<<<<<< HEAD
                 "I've never seen a vampire come here underground."
-=======
-                "It's really been a long time since humans came underground."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "154_0": {
             "lines": [
-<<<<<<< HEAD
                 "That's because there's nothing really for one to come down",
                 "here. No humans to eat or anything."
-=======
-                "That's because there's a lot of really frightening youkai",
-                "here. Humans always seemed scared of them."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "162_0": {
             "lines": [
-<<<<<<< HEAD
                 "So, then, are you in disguise?",
                 "Or are you on a mission?"
-=======
-                "So, then, are you brave?",
-                "Or are you a fool?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "170_0": {
             "lines": [
-<<<<<<< HEAD
                 "I'm resolving an incident."
-=======
-                "I'm a merchant."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "178_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(You don't have to be so open.)"
-=======
-                "<t$Alice >(You mean a thief, right?)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "186_0": {
             "lines": [
                 "Ho ho.",
-<<<<<<< HEAD
                 "I guess it's worth testing your worth then."
-=======
-                "I guess it's a waste of time to ask a fool a question."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "194_0": {
@@ -189,11 +151,7 @@
         },
         "202_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Flandre, watch out! I did some research,",
-=======
-                "<t$Alice >(Marisa, watch out! I did some research,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> and the Big Four of the Mountain are...)"
             ]
         },
@@ -218,21 +176,13 @@
         },
         "46_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(The Big Four of the Mountain are the four",
-=======
-                "<t$Alice >(The Big Four of the Mountain are the four",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> big oni, if we're talking about the Youkai Mountain.)"
             ]
         },
         "54_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Which would mean you're looking at an oni...)"
-=======
-                "<t$Alice >(Which would mean you're looking at an oni...)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "62_0": {
@@ -248,43 +198,25 @@
         },
         "78_0": {
             "lines": [
-<<<<<<< HEAD
                 "To resolve an incident. Or so I've been told"
-=======
-                "I have no idea, myself..."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "86_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(I got something to ask you;",
                 "<l$> I'd like you to tell me about the geyser that's erupting now.)"
-=======
-                "<t$Alice >(I got something to ask you;",
-                "<l$> I'd like you to stop the geyser that's erupting now.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "94_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(I can feel something sinister behind",
-=======
-                "<t$Alice >(I can feel something sinister behind",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> it all. Above all...)"
             ]
         },
         "102_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(The qi around it is all messed up.",
                 "<l$> It's as if something not natural's there.)"
-=======
-                "<t$Alice >(My dolls go out of control when they get near it.",
-                "<l$> It's as if they got some sort of grudge...)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "110_0": {
@@ -305,32 +237,19 @@
         },
         "134_0": {
             "lines": [
-<<<<<<< HEAD
                 "So I'm finally getting to the source?",
-=======
-                "Hey, you're finally acting like a townsperson.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "But..."
             ]
         },
         "142_0": {
             "lines": [
-<<<<<<< HEAD
                 "What's with you, Meiling? You're telling me Remi",
                 "sent me down here to try to stop the hot springs?"
-=======
-                "What's with you, Alice? You sent me down here",
-                "to try to stop the hot springs?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "150_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(That's right. I thought you'd object",
-=======
-                "<t$Alice >(That's right. I thought you'd object",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> if I mentioned it, so I didn't tell you.)"
             ]
         },

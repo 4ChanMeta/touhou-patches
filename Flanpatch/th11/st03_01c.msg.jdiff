@@ -26,11 +26,7 @@
         },
         "46_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(I don't think she knows",
-=======
-                "<t$Nitori >(I don't think she knows",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> what troublesome company she's taking up...)"
             ]
         }
@@ -38,22 +34,13 @@
     "0": {
         "34_0": {
             "lines": [
-<<<<<<< HEAD
                 "Is this one of those vile, hated youkai?",
                 "She's sure acting annoying..."
-=======
-                "What's that?",
-                "Is this one of those vile, hated youkai?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "42_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(......)"
-=======
-                "<t$Nitori >(......)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "50_0": {
@@ -64,34 +51,20 @@
         },
         "58_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Well, hello. Would you like to answer",
                 "<l$> some of our questions?)"
-=======
-                "<t$Nitori >(Well, hello, I didn't think we'd",
-                "<l$> stumble across someone like you...)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "66_0": {
             "lines": [
                 "Huh?",
-<<<<<<< HEAD
                 "Are you a journalist now?"
-=======
-                "Y'know her?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "74_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(She's an oni. We might be",
                 "<l$> able to squeeze something out of her with some persuasion.)"
-=======
-                "<t$Nitori >(She's an oni, and they're boss",
-                "<l$> of us kappa and the tengu.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "82_0": {
@@ -102,44 +75,25 @@
         },
         "90_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Indeed, we're here to resolve some",
                 "<l$> issues with the geyser.)"
-=======
-                "<t$Nitori >(The tengu and the kappa have only been in charge",
-                "<l$> of the mountain since the oni have been gone.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "98_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(You're willing to",
                 "<l$> us out, right?)"
-=======
-                "<t$Nitori >(Well, they've been gone for such a long time,",
-                "<l$> and everything's been peaceful since, but...)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "106_0": {
             "lines": [
-<<<<<<< HEAD
                 "An oni? What would an oni know about the geyser."
-=======
-                "But isn't there an oni in Gensokyo already?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "114_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Oni once used to all live in Gensokyo, above the surface.",
                 "<l$> While they've all split up now, this one should still be connected.)"
-=======
-                "<t$Nitori >(Yeah, but we're no match for her even if she's alone.",
-                "<l$> I don't want to think about if all the oni came back.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "122_0": {
@@ -155,66 +109,38 @@
         },
         "138_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(So again, are you willing to help?",
                 "<l$> Or should my sister take care of you for me?)"
-=======
-                "<t$Nitori >(Please, tell her to just stay there and not",
-                "<l$> come back above ground.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "146_0": {
             "lines": [
-<<<<<<< HEAD
                 "Hey, don't act like I'm just",
                 "your extention! I'm putting in all the effort here!"
-=======
-                "Hahaha, you didn't want to get caught by the boss,",
-                "so you sent me down here instead?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "154_0": {
             "lines": [
-<<<<<<< HEAD
                 "So, what are we waiting for?",
-=======
-                "Oh, man, this is hilarious.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "All I have to do is beat her, right?"
             ]
         },
         "162_0": {
             "lines": [
-<<<<<<< HEAD
                 "Hah. You two are a riot.",
-=======
-                "...What are you going on about?",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "It looks like those orbs know about me, though."
             ]
         },
         "170_0": {
             "lines": [
-<<<<<<< HEAD
                 "Enough of that, it's my turn now.",
                 "So, why don't you answer?"
-=======
-                "But enough of that, it's my turn now.",
-                "So, why don't you let us pass?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "178_0": {
             "lines": [
-<<<<<<< HEAD
                 "The geyser huh? I know about it, but I can't trust you two just yet.",
                 "Beat me first! If it's a fight you want, then it's a fight you'll get!"
-=======
-                "I wonder who's really behind those orbs...",
-                "But first, if it's a fight you want, then it's a fight you'll get!"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         }
     },
@@ -232,134 +158,75 @@
         },
         "46_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Are you finally going to help us now?)"
-=======
-                "<t$Nitori >(Alright, let's just get going now!)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "54_0": {
             "lines": [
-<<<<<<< HEAD
                 "Of course!",
                 "The source of the geyser's probably at that palace down there..."
-=======
-                "Well, do you know where we're going?",
-                "I don't have the slightest clue, you know."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "62_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(A palace...?",
                 "<l$> huh. How very interesting.)"
-=======
-                "<t$Nitori >(Well, if we want to find the hot springs,",
-                "<l$> we've got to find whoever's making that geyser.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "70_0": {
             "lines": [
-<<<<<<< HEAD
                 "A bunch of creepy",
                 "stuck up folks live there. I would watch myself."
-=======
-                "Huh?",
-                "So you're lookin' for the hot springs, too?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "78_0": {
             "lines": [
-<<<<<<< HEAD
                 "What do you mean?",
                 "Are they politicians?"
-=======
-                "I guess I can see a kappa sittin' in a hot springs",
-                "'n' drinkin' saké."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "86_0": {
             "lines": [
-<<<<<<< HEAD
                 "They have some freaky abilities. You'll have to see for yourself.",
                 "But that aside..."
-=======
-                "So, the voice in those orbs...",
-                "is a kappa's voice?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "94_0": {
             "lines": [
-<<<<<<< HEAD
                 "A vampire down here is quite unusual.",
                 "It's surely a story I'll remember."
-=======
-                "Heeey, can you hear me?",
-                "You kappa in there!"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "102_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Good, another one has fallen for my charisma.)"
-=======
-                "<t$Nitori >(Bwuh!?)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "110_0": {
             "lines": [
-<<<<<<< HEAD
                 "I heard some vampires were relatively new to the surface."
-=======
-                "I bet it's peaceful and fun up in the mountain, right?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "118_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(That's us indeed.)"
-=======
-                "<t$Nitori >(Yes, yes, same as always.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "126_0": {
             "lines": [
-<<<<<<< HEAD
                 "Glad to hear.",
                 "I'd love to visit Gensokyo again sometime.."
-=======
-                "Don't worry. I'm not going to",
-                "try to take over the mountain again or anything."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "134_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(...I hope you'll at least come",
-=======
-                "<t$Nitori >(...I hope you'll at least come",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> up and go drinking with us sometime.)"
             ]
         },
         "142_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Even though we're all pretty busy...)"
-=======
-                "<t$Nitori >(Even though we're all pretty busy...)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         }
     }

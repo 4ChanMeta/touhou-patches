@@ -57,11 +57,7 @@
         "338_0": {
             "lines": [
                 "What!",
-<<<<<<< HEAD
                 "The cat turned into a cat!"
-=======
-                "The cat turned into a person!"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "346_0": {
@@ -94,11 +90,7 @@
         },
         "386_0": {
             "lines": [
-<<<<<<< HEAD
                 "Yeah, right.",
-=======
-                "But, uh, Patchouli...",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "What now?"
             ]
         },
@@ -116,11 +108,7 @@
         },
         "410_0": {
             "lines": [
-<<<<<<< HEAD
                 "I don't really mind, but...",
-=======
-                "Guess I have no choice...",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "But you're just watching from up there."
             ]
         },
@@ -143,20 +131,12 @@
         },
         "442_0": {
             "lines": [
-<<<<<<< HEAD
                 "I'll take on your challenge!"
-=======
-                "I don't wanna keep going!"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "450_0": {
             "lines": [
-<<<<<<< HEAD
                 "Aw, you really wanna go?",
-=======
-                "Aw, you don't wanna keep going?",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "Great!"
             ]
         },
@@ -176,34 +156,20 @@
         },
         "38_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Pache >(Flandre,",
-=======
-                "<t$Pache >(Marisa,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> aren't you going any further?)"
             ]
         },
         "46_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Pache >(You're almost there now.",
                 "<l$> You're nearing the deepest part of this place.)"
-=======
-                "<t$Pache >(You have to go steal lots of",
-                "<l$> books from people's houses.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "54_0": {
             "lines": [
-<<<<<<< HEAD
                 "Thank goodness...",
                 "I'm ready to eat some cooked chicken."
-=======
-                "Guess I gotta...",
-                "Just this once!"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "62_0": {

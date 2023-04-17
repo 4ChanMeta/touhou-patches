@@ -41,22 +41,13 @@
         },
         "150_0": {
             "lines": [
-<<<<<<< HEAD
                 "Are you a vampire?",
                 "No, why would a vampire be here?"
-=======
-                "Are you human?",
-                "No, you wouldn't be able to get this far."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "158_0": {
             "lines": [
-<<<<<<< HEAD
                 "Hey, there she is!",
-=======
-                "Hm, there she is.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "Looks like a member of the household."
             ]
         },
@@ -131,11 +122,7 @@
         },
         "270_0": {
             "lines": [
-<<<<<<< HEAD
                 "You are a vampire,",
-=======
-                "You seem human,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "what need do you have of me?"
             ]
         },
@@ -182,11 +169,7 @@
         },
         "334_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Pache >(Flandre, she's more than you can handle.",
-=======
-                "<t$Pache >(Marisa, she's more than you can handle.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> Hurry up and find her pet.)"
             ]
         },
@@ -210,11 +193,7 @@
         },
         "366_0": {
             "lines": [
-<<<<<<< HEAD
                 "Hey, don't read my mind like that!"
-=======
-                "Hey, how can ya tell what I'm thinkin'?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "374_0": {
@@ -281,13 +260,8 @@
     "1": {
         "30_0": {
             "lines": [
-<<<<<<< HEAD
                 "Patchouli misled me.",
                 "Even with you reading me, you were a total cakewalk!"
-=======
-                "Hm, you're quite strong.",
-                "It's good to attack humans."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "38_0": {

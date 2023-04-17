@@ -8,21 +8,13 @@
         },
         "42_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(This place...?",
-=======
-                "<t$Nitori >(This place...?",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> It looks like this is a real hell.)"
             ]
         },
         "50_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Hohoho,",
-=======
-                "<t$Nitori >(Hohoho,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> I can see it, I can see it!)"
             ]
         },
@@ -39,22 +31,13 @@
         },
         "142_0": {
             "lines": [
-<<<<<<< HEAD
                 "Hey, Remilia, maybe your orbs familiars like fish?",
                 "I think it's attracting this cat."
-=======
-                "Hey, Nitori, maybe your orbs smell like fish?",
-                "It's attractin' this cat."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "150_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Do they?)"
-=======
-                "<t$Nitori >(Do they?)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "154_0": {
@@ -70,11 +53,7 @@
         "330_0": {
             "lines": [
                 "They don't really smell like fish to me.",
-<<<<<<< HEAD
                 "All I can smell is vampire corpses!"
-=======
-                "All I can smell is human corpses!"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "338_0": {
@@ -85,11 +64,7 @@
         },
         "346_0": {
             "lines": [
-<<<<<<< HEAD
                 "The smell of corpses?"
-=======
-                "Didja say the smell of corpses?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "354_0": {
@@ -100,11 +75,7 @@
         },
         "362_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(What's with her?",
-=======
-                "<t$Nitori >(What's with her?",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> She's kind of unsettling.)"
             ]
         },
@@ -132,54 +103,31 @@
         },
         "402_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(The worst bird...?",
                 "<l$> That's it! We should go meet her, Flandre!)"
-=======
-                "<t$Nitori >(The worst bird...?",
-                "<l$> That's it! We should go meet her, Marisa!)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "410_0": {
             "lines": [
-<<<<<<< HEAD
                 "A bird?",
                 "What do you mean?"
-=======
-                "Huh?",
-                "Is someone tellin' ya what to do?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "418_0": {
             "lines": [
                 "I don't know what you're after,",
-<<<<<<< HEAD
                 "but I can smell danger in it."
-=======
-                "but I can smell treasure in it."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "426_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Okay. If you can get your hands on my",
                 "<l$> target, I'll let you have some fun with it.)"
-=======
-                "<t$Nitori >(Okay. If you can get your hands on my",
-                "<l$> target, I'll share some of it with you.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "434_0": {
             "lines": [
-<<<<<<< HEAD
                 "Glad to hear!",
-=======
-                "Well, that was easy.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "All right, it's settled, off we go!"
             ]
         },
@@ -191,11 +139,7 @@
         },
         "450_0": {
             "lines": [
-<<<<<<< HEAD
                 "Sorry, I don't want to play around with cats."
-=======
-                "Sorry, I don't have to play around with cats."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "458_0": {
@@ -220,11 +164,7 @@
         },
         "38_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(Okay, let's go, let's go!",
-=======
-                "<t$Nitori >(Okay, let's go, let's go!",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> The power I want is almost at hand!)"
             ]
         },
@@ -235,23 +175,14 @@
         },
         "54_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(They say it's many times",
-=======
-                "<t$Nitori >(They say it's many times",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> more powerful than electricity.)"
             ]
         },
         "62_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Remilia >(It'll revolutionize the",
                 "<l$> way we function!)"
-=======
-                "<t$Nitori >(It'll revolutionize all",
-                "<l$> our power production methods.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "70_0": {
@@ -291,13 +222,8 @@
         },
         "118_0": {
             "lines": [
-<<<<<<< HEAD
                 "Maybe she can help me with",
                 "whatever Remi and Patchy want to do."
-=======
-                "Maybe she can help me with my",
-                "magical research, too."
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         }
     }

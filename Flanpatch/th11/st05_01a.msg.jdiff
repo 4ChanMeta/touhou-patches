@@ -8,11 +8,7 @@
         },
         "42_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Is my lended Qi alright?)"
-=======
-                "<t$Alice >(Are the dolls okay?)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "50_0": {
@@ -22,22 +18,13 @@
         },
         "58_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(I think you yourself will be fine,",
                 "<l$> but it'd be bad if the qi dispersed.)"
-=======
-                "<t$Alice >(I think the dolls themselves will be fine,",
-                "<l$> but it'd be bad if the gunpowder inside caught fire.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "66_0": {
             "lines": [
-<<<<<<< HEAD
                 "Why the hell would it disperse?"
-=======
-                "Why the hell did you stuff gunpowder in 'em?!"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "142_0": {
@@ -47,21 +34,13 @@
         },
         "150_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Flandre, are you throwing",
-=======
-                "<t$Alice >(Marisa, are you throwing",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> around some kind of cat food?)"
             ]
         },
         "158_0": {
             "lines": [
-<<<<<<< HEAD
                 "Maybe your magic attracted it?"
-=======
-                "Maybe it wants to play with these dolls?"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "162_0": {
@@ -88,11 +67,7 @@
         },
         "354_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(It wasn't exactly out of the blue, actually...)"
-=======
-                "<t$Alice >(It wasn't exactly out of the blue, actually...)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "362_0": {
@@ -103,21 +78,13 @@
         },
         "370_0": {
             "lines": [
-<<<<<<< HEAD
                 "That must've been the last place's mid-boss,",
-=======
-                "That must've been the last dungeon's mid-boss,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "I guess."
             ]
         },
         "378_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(No, she said the geyser was her pet's doing.)"
-=======
-                "<t$Alice >(No, she said the geyser was her pet's doing.)"
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
             ]
         },
         "386_0": {
@@ -144,11 +111,7 @@
         },
         "418_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Well,",
-=======
-                "<t$Alice >(Well,",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> I wonder what kind of youkai she is...)"
             ]
         },
@@ -174,11 +137,7 @@
         },
         "38_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Evil spirits?",
-=======
-                "<t$Alice >(Evil spirits?",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> We don't hear about them often, do we?)"
             ]
         },
@@ -202,21 +161,13 @@
         },
         "70_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Will come to hold a grudge against world?",
-=======
-                "<t$Alice >(Will come to hold a grudge against world?",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> Then, maybe the geyser incident...)"
             ]
         },
         "78_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(And my qi going crazy near the geyser is",
-=======
-                "<t$Alice >(And my dolls going crazy near the geyser is",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> ...Because of the evil spirits?)"
             ]
         },
@@ -227,11 +178,7 @@
         },
         "94_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Evil spirits are coming from the geyser, right?",
-=======
-                "<t$Alice >(Evil spirits are coming from the geyser, right?",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> If that's the case, then I'm satisfied with this explanation.)"
             ]
         },
@@ -260,11 +207,7 @@
         },
         "134_0": {
             "lines": [
-<<<<<<< HEAD
                 "<t$Meiling >(Hahaha, then she must be the real last boss.",
-=======
-                "<t$Alice >(Hahaha, then she must be the real last boss.",
->>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
                 "<l$> We were told not to do it by the townspeople, too.)"
             ]
         },
