@@ -29,7 +29,7 @@
 	"th17/face/pl01/face_pl01sw.png": 2680308626,
 	"th17/face/pl01/face_pl01sw_b.png": 3414416274,
 	"th17/pl01.anm": 2727661286,
-	"th17/pl01.manm": 1305108394,
+	"th17/pl01.manm": 1109104001,
 	"th17/pl01a.sht": 1598128059,
 	"th17/pl01b.sht": 876536495,
 	"th17/pl01c.sht": 2997370113,
