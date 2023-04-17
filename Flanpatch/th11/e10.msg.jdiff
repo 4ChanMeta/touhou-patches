@@ -1,0 +1,187 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Patchouli  $Flandre  >The magic library."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A dark library in the basement of the Scarlet Devil Mansion."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "A great number of unique and unusual books were collected here."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "If you did serious research, you could obtain any knowledge,",
+                "from how to build a rocket to how to make a great stew."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Patchouli  >\"Evil spirits... Evil spirits... Evil spirits..."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> In the end, they're phantoms who haven't crossed",
+                "<l$> the Sanzu River for some reason.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Patchouli  >\"If a youkai takes away their body before the death gods",
+                "<l$> can ferry them, they become evil spirits."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<l$> Hm, hm... eh?"
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> ‘This most frequently happens when a youkai cat called a",
+                "<l$> kasha steals their body.’...\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Patchouli  >\"...That cat...\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Flandre  >\"What about cats?\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Patchouli  >\"I think that cat was the one who sent up those spirits...",
+                "<l$> What on earth is that?\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Flandre  >\"I caught it near the geyser."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> I can't tell whether it's an evil spirit or just a phantom though.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Patchouli  >\"Stop bringing weird things into my library."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<l$> It's easy to tell the two apart, anyhow.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Flandre  >\"Oh, really? Sorry, I guess I'm behind on my reading.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Patchouli  >\"Phantoms are cold to the touch. Evil spirits are hot.\""
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<r$Flandre  >\"Let's see... Whoa, it's cold!"
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<l$> Then, that means this is just a phantom.\""
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<r$Patchouli  >\"Oh, don't leave it there!",
+                "<l$> Go take it back to where you found it."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<l$> Don't you know abandoned pets are a problem nowadays?\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Flandre  >\"Yeah, that was a real problem underground.\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Patchouli  >\"The cats run wild controlling evil spirits,",
+                "<l$> and the crows use fire to go on a rampage..."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<l$> None of this would have happened if the Palace of the",
+                "<l$> Earth Spirits would take proper care of their pets.\""
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "The geyser hadn't stopped, but the evil spirits had disappeared."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "They geyser had erupted to disperse excess heat from the Blazing Hell."
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "Since the geyser itself wasn't a threat, Flandre and Patchouli",
+                "decided to leave it alone."
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "Lately, it seems a lot of pet owners were tiring of the pets",
+                "they'd adored so and letting them run free."
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "Those pets could gain the power to lengthen their own lives and",
+                "eventually become youkai, and they might even turn against their",
+                "masters in the end."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "To all you pet owners, please remember this",
+                "whenever you see a youkai:"
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "That youkai might've been someone's pet, once upon a time."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "<c$Ending No.05 — The Palace's pets were probably youkai from the start.$>"
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "<c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}

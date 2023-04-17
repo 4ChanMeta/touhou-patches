@@ -1,0 +1,125 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "So, the youkai underground are bad for me?",
+                "It seems like the underground itself is pretty bad for me."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Pache >(I read up on that youkai we ran across before.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Pache >(It was an earth spider. A troublesome youkai",
+                "<l$> who inflicts disease upon humans.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Disease? Give me a break.",
+                "So, can you tell what their weak points are, too?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+<<<<<<< HEAD
+                "Oh, a vampire? Down here?"
+=======
+                "Oh, are you a human?"
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "138_0": {
+            "lines": [
+<<<<<<< HEAD
+                "Has anyone come to explore the underground?"
+=======
+                "Have humans come to explore the underground?"
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "146_0": {
+            "lines": [
+                "Oh, yes!",
+                "That's exactly it."
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "Please, take my advice,",
+                "you're better of just going right back where you came."
+            ]
+        },
+        "162_0": {
+            "lines": [
+                "I don't feel like going back, though."
+            ]
+        },
+        "170_0": {
+            "lines": [
+                "So, what can you tell me about this one?",
+                "What's her power, or her weak point?"
+            ]
+        },
+        "178_0": {
+            "lines": [
+                "<t$Pache >(How should I know that already?)"
+            ]
+        },
+        "186_0": {
+            "lines": [
+                "Well, I tried to warn you...",
+<<<<<<< HEAD
+                "You truly are foolish."
+=======
+                "Humans truly are foolish."
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "194_0": {
+            "lines": [
+                "<t$Pache >(Well, you're the one that provoked her,",
+                "<l$> deal with her yourself.)"
+            ]
+        },
+        "202_0": {
+            "lines": [
+                "Guess I have to.",
+                "Well, please look up how to beat her while I beat her, okay?"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Oh, looks like I beat her."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "<t$Pache >(...A Persian person driven by jealousy?",
+                "<l$> I don't really understand.)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Why is a Persian underground?"
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "<t$Pache >(Look, this is all conjecture.",
+                "<l$> *scribbles notes*)"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Hm. Why do I feel like I'm down here",
+                "to conduct research on underground youkai?"
+            ]
+        }
+    }
+}

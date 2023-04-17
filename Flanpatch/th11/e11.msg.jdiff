@@ -1,0 +1,165 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Flandre  $Remilia  >The geyser."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "Geysers form when water that's pooled underground is heated,",
+                "and the steam pressure forces it to burst out above ground."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "This energy that usually just made hot water burst out at regular",
+                "intervals was now the herald of something truly great."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Flandre  >\"What're you doing?\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Remilia  >\"The god of the mountain said that fusion energy will",
+                "<l$> change the kappa's future, but I don't really know",
+                "<l$> how we should use it.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Remilia  >\"But, I know this geyser was created",
+                "<l$> with fusion energy."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> I thought Patchy could help us take advantage of it",
+                "<l$> after I heard the news...\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Remilia  >\"That's why I had you do what you did.\""
+            ]
+        },
+        "7_1": {
+            "lines": [
+                "<r$Flandre  >\"I see...\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Remilia  >\"This is called a turbine. It's like a water wheel."
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<l$> If the energy of the geyser turns the turbine,",
+                "<l$> it'll make a lot of electricity.\""
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<r$Flandre  >\"You got that from the kappa..?"
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> The geyser won't even be able to come out at this rate..."
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<l$> Why not just put a water wheel under the waterfall?\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Remilia  >\"Mm. The energy conversion rate does seem pretty low.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<r$Remilia  >\"Aah, there's lots of things I'd try if I had",
+                "<l$> fusion energy...\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Flandre  >\"Well, why not just tame that crow, then?",
+                "<l$> Seems easy enough.\""
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<r$Remilia  >\"Oh? Will you do it for me, then?",
+                "<l$> I don't wanna go underground.\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Flandre  >\"Oh well, I guess I'll go down one more time."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<l$> But, if it goes well, you have to share",
+                "<l$> some of the energy with me.\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "Flandre's second underground excursion went off smoothly."
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "What's more, the hell crow, Utsuho, listened to",
+                "what Flandre said patiently."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "To animals, weak people are just prey, but",
+                "they're submissive to stronger people."
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "Utsuho could control nuclear fusion, but to use it in practical",
+                "applications she had to get certain atoms from the mountain god."
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "In other words, she couldn't just keep",
+                "making reactions forever."
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "Flandre thought she had no choice but to visit",
+                "the mountain god and ask her for fusion energy."
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "Still, the mountain god didn't have any reason to give it to her."
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<c$Ending No.06 — Fusion energy is the hope for the future.$>"
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "<c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}

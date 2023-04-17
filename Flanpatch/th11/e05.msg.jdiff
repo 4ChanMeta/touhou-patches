@@ -1,0 +1,60 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Flandre  >The geyser."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "It takes energy to heat that much water."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "That must be the energy the kappa were talking about."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Flandre  >\"Hm, it sure is a lot of energy."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Maybe enough to pile it as high as a mountain."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> I gotta get my hands on it..."
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> Will Remilia really share it with me, though?\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "Flandre had been forced to go underground by a her sister,",
+                "but next time she thought she'd sneak in of her own will."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "8_1": {
+            "lines": [
+                "<c$Ending No.12 — The ultimate water heater.$>"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<c$Try to clear without using continues!$>"
+            ]
+        }
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+                "It sure is hot in this courtyard."
+            ]
+        },
+        "42_0": {
+            "lines": [
+                "<t$Pache >(It's not supposed to be hot in the courtyard.)"
+            ]
+        },
+        "50_0": {
+            "lines": [
+                "<t$Pache >(You're hot because you're wearing",
+                "<l$> those heavy clothes.)"
+            ]
+        },
+        "58_0": {
+            "lines": [
+                "Yeah, I sure am.",
+                "This is what I wear in winter, you know."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "...It's a cat."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "I wonder if cats love me now?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "<t$Pache >(...A black cat in the flames of hell.",
+                "<l$> What a bad omen.)"
+            ]
+        },
+        "154_0": {
+            "lines": [
+                "　　"
+            ]
+        },
+        "322_0": {
+            "lines": [
+                "Tada~"
+            ]
+        },
+        "330_0": {
+            "lines": [
+                "Hey, sis, you're pretty good!",
+                "Your strength's growing on me!"
+            ]
+        },
+        "338_0": {
+            "lines": [
+                "What!",
+<<<<<<< HEAD
+                "The cat turned into a cat!"
+=======
+                "The cat turned into a person!"
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "346_0": {
+            "lines": [
+                "<t$Pache >(A cat and a person... within the margin of error.)"
+            ]
+        },
+        "354_0": {
+            "lines": [
+                "Oh yeah, sis, you wanted to find out about that geyser, right?",
+                "I heard you talkin' about it before!"
+            ]
+        },
+        "362_0": {
+            "lines": [
+                "You'd better give up. You'd better give up.",
+                "Ya hafta meet the worst bird ever to stop the geyser."
+            ]
+        },
+        "370_0": {
+            "lines": [
+                "If she touches you, you'll melt right away,",
+                "and looking in her eyes will drive you mad!"
+            ]
+        },
+        "378_0": {
+            "lines": [
+                "And now she's so dazzling you can't see a thing."
+            ]
+        },
+        "386_0": {
+            "lines": [
+<<<<<<< HEAD
+                "Yeah, right.",
+=======
+                "But, uh, Patchouli...",
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+                "What now?"
+            ]
+        },
+        "394_0": {
+            "lines": [
+                "<t$Pache >(You can only keep going, right?",
+                "<l$> Right on past her.)"
+            ]
+        },
+        "402_0": {
+            "lines": [
+                "<t$Pache >(If you can't stop the geyser,",
+                "<l$> then something worse will happen.)"
+            ]
+        },
+        "410_0": {
+            "lines": [
+<<<<<<< HEAD
+                "I don't really mind, but...",
+=======
+                "Guess I have no choice...",
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+                "But you're just watching from up there."
+            ]
+        },
+        "418_0": {
+            "lines": [
+                "It's really hot down here."
+            ]
+        },
+        "426_0": {
+            "lines": [
+                "<t$Pache >(I'm not just watching.",
+                "<l$> I'm drinking tea while watching.)"
+            ]
+        },
+        "434_0": {
+            "lines": [
+                "Hey, sis, you wanna keep going?",
+                "Or you gonna turn back?"
+            ]
+        },
+        "442_0": {
+            "lines": [
+<<<<<<< HEAD
+                "I'll take on your challenge!"
+=======
+                "I don't wanna keep going!"
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "450_0": {
+            "lines": [
+<<<<<<< HEAD
+                "Aw, you really wanna go?",
+=======
+                "Aw, you don't wanna keep going?",
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+                "Great!"
+            ]
+        },
+        "458_0": {
+            "lines": [
+                "I'll be sure to be careful with",
+                "your strong corpse and spirit when you're dead!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "Man, you're really strong.",
+                "It's really touching!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+<<<<<<< HEAD
+                "<t$Pache >(Flandre,",
+=======
+                "<t$Pache >(Marisa,",
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+                "<l$> aren't you going any further?)"
+            ]
+        },
+        "46_0": {
+            "lines": [
+<<<<<<< HEAD
+                "<t$Pache >(You're almost there now.",
+                "<l$> You're nearing the deepest part of this place.)"
+=======
+                "<t$Pache >(You have to go steal lots of",
+                "<l$> books from people's houses.)"
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "54_0": {
+            "lines": [
+<<<<<<< HEAD
+                "Thank goodness...",
+                "I'm ready to eat some cooked chicken."
+=======
+                "Guess I gotta...",
+                "Just this once!"
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "So, what about the geyser?",
+                "How can we stop her?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "You're goin', right? You're goin', right?",
+                "I won't stop ya."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "Man, I'm so happy."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "There's no way she could do in",
+                "a corpse as strong as you!"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "Hey, I'm still alive."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "<t$Pache >(Ah, I've found it.",
+                "<l$> She's a type of youkai called a kasha...)"
+            ]
+        },
+        "110_0": {
+            "lines": [
+                "I told you, I don't need to know about youkai",
+                "after I already beat them."
+            ]
+        }
+    }
+}

@@ -1,0 +1,200 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Flandre  $Meiling  >The geyser."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "The water around the geyser was too hot to bathe in."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "However, the mysterious spirits that had appeared before",
+                "were starting to decrease in number."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Flandre  >\"Man, it's hot around here.\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Meiling  >\"Well, it's being heated by that hell crow's power."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> Fusion energy, was it?"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<l$> It's got to be really hot.\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Flandre  >\"What's nuclear fusion energy, anyway?\""
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<r$Meiling  >\"I don't really know, but it's like the power of the Sun, right?\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Flandre  >\"Then how did I survive..?"
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> This is too dangerous to get near."
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<l$> Even for a youkai.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Meiling  >\"Why don't you go ask her?\""
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<r$Flandre  >\"I wish we had some kind of heat knob..."
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "<l$> Oh, I know!\""
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "<r$Meiling  >\"Well?"
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "<l$> All these phantoms...\""
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<r$Flandre  >\"Remembering all those spirits soaking",
+                "<l$> in the geyser gave me an idea."
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "<l$> If we sic an ice fairy at it, won't it cool off?\""
+            ]
+        },
+        "19_0": {
+            "lines": [
+                "<r$Meiling  >\"Even if it does...",
+                "<l$> Who'd want to get in a hot spring full of fairies?"
+            ]
+        },
+        "20_0": {
+            "lines": [
+                "<l$> Come to think of it, the spirits from before disappeared."
+            ]
+        },
+        "21_0": {
+            "lines": [
+                "<l$> The qi isn't going out of control, either.\""
+            ]
+        },
+        "22_0": {
+            "lines": [
+                "<r$Flandre  >\"Hm. I guess it's over.\""
+            ]
+        },
+        "23_0": {
+            "lines": [
+                "<r$Flandre  >\"Aw, no way. The ghosts are getting away!\""
+            ]
+        },
+        "24_0": {
+            "lines": [
+                "<r$Meiling  >\"Well, it's too hot, isn't it?"
+            ]
+        },
+        "25_0": {
+            "lines": [
+                "<l$> Why don't we go get some eggs to boil in the springs?\""
+            ]
+        },
+        "26_0": {
+            "lines": [
+                "<r$Flandre  >\"Yeah! We can make money on hot springs eggs. Fusion energy's amazing.\""
+            ]
+        },
+        "27_0": {
+            "lines": [
+                "They understood the geyser was because of the hell crow's excess heat,"
+            ]
+        },
+        "28_0": {
+            "lines": [
+                "but why did the spirits suddenly disappear?"
+            ]
+        },
+        "29_0": {
+            "lines": [
+                "They didn't know why, but the hot spring stayed like Flandre wanted,",
+                "and Meiling's qi stopped going out of control, so they let it be."
+            ]
+        },
+        "30_0": {
+            "lines": [
+                "What's more, the underground youkai seemed content,",
+                "and didn't seem to be plotting anything."
+            ]
+        },
+        "31_0": {
+            "lines": [
+                "The geyser had probably caused the spirits to appear somehow,",
+                "MFlandre and the rest concluded."
+            ]
+        },
+        "32_0": {
+            "lines": [
+                "But soon after, the hell crow said something unexpected."
+            ]
+        },
+        "33_0": {
+            "lines": [
+                "She had gotten her nuclear fusion power from a mountain god."
+            ]
+        },
+        "34_0": {
+            "lines": [
+                "Once they heard that, the two set out for the mountain shrine."
+            ]
+        },
+        "35_0": {
+            "lines": [
+                "They wanted to share some of that power, too."
+            ]
+        },
+        "36_0": {
+            "lines": [
+                "<c$Ending No.04 — Fusion eggs? They're still just hot spring eggs.$>"
+            ]
+        },
+        "37_0": {
+            "lines": [
+                "<c$Congratulations, all clear! Just as I'd expected!$>"
+            ]
+        }
+    }
+}

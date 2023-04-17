@@ -1,0 +1,55 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Flandre  >The geyser."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "If you looked close, you could see a swarm of ghosts, or something."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Were they vengeful spirits?"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Flandre  >\"Hmm.",
+                "<l$> I don't really think those guys there are just ghosts."
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> Something's different, but I don't know what.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "In any case, she thought she'd try to learn the difference between"
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "vengeful ghosts and phantoms, but Remilia made her put it off."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "First, she'd have to make them stop appearing."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<c$Ending No.10 — Leave research for your free time.$>"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<c$Try to clear without using continues!$>"
+            ]
+        }
+    }
+}

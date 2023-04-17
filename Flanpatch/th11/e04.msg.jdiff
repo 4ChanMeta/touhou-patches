@@ -1,0 +1,55 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Flandre  >The geyser."
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "If you looked close, you could see a swarm of ghosts, or something."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "Were they vengeful spirits?"
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<r$Flandre  >\"These are vengeful spirits?"
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<l$> They're just floating around in the hot spring..."
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<l$> Doesn't look like they hold a grudge, or anything.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "According to Patchouli, if these spirits clung to something from",
+                "their life, they would come to bear a grudge against the world."
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "Even if they looked like simple, carefree spirits..."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<c$Ending No.11 — Maybe the ghosts will make the spring cold.$>"
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<c$Try to clear without using continues!$>"
+            ]
+        }
+    }
+}

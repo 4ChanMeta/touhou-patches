@@ -1,0 +1,363 @@
+{
+    "0": {
+        "34_0": {
+            "lines": [
+<<<<<<< HEAD
+                "This place nearly rivals the Scarlet Devil Mansion."
+=======
+                "And here the last dungeon comes to a finale."
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "42_0": {
+            "lines": [
+<<<<<<< HEAD
+                "<t$Meiling >(You shouldn't say that. Ours is obviously better.)"
+=======
+                "<t$Alice >(That's right, are you prepared for it?)"
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "50_0": {
+            "lines": [
+<<<<<<< HEAD
+                "Ah, I don't really remember much of the interior either way."
+=======
+                "Ah, I should've done some shopping in the town back there."
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "58_0": {
+            "lines": [
+<<<<<<< HEAD
+                "<t$Meiling >(But, it doesn't look like there's anyone here.",
+=======
+                "<t$Alice >(But, it doesn't look like there're any townsfolk here.",
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+                "<l$> ...There was a cat, though.)"
+            ]
+        },
+        "66_0": {
+            "lines": [
+<<<<<<< HEAD
+                "It's alright. Playing with the owners who refuse",
+                "to come out is the basic of basics."
+=======
+                "It's all good. Searching a house with nobody in it is",
+                "the basic of basics."
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "...Who is it?"
+            ]
+        },
+        "142_0": {
+            "lines": [
+<<<<<<< HEAD
+                "A vampire...?",
+                "I can't believe a vampire could make it all the way down here."
+=======
+                "A human...?",
+                "I can't believe a human could make it all the way down here."
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "150_0": {
+            "lines": [
+<<<<<<< HEAD
+                "It's alright. Playing with the owner who's come out is also",
+=======
+                "It's all good. Searching a house with somebody in it is also",
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+                "the basic of basics."
+            ]
+        },
+        "158_0": {
+            "lines": [
+<<<<<<< HEAD
+                "<t$Meiling >(Why don't you listen to what she has to say?)"
+=======
+                "<t$Alice >(Why don't you listen to what she has to say?)"
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "166_0": {
+            "lines": [
+<<<<<<< HEAD
+                "Hmm, well, I want the hot spring to gush more.",
+=======
+                "Aah, well, I want the hot spring to gush more.",
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+                "What should I do?"
+            ]
+        },
+        "174_0": {
+            "lines": [
+                "...What you're saying is the opposite of",
+                "what you're thinking."
+            ]
+        },
+        "182_0": {
+            "lines": [
+                "Hm?"
+            ]
+        },
+        "190_0": {
+            "lines": [
+                "Now you're starting to have questions about",
+                "the gushing hot spring."
+            ]
+        },
+        "198_0": {
+            "lines": [
+                "What do you mean...?"
+            ]
+        },
+        "206_0": {
+            "lines": [
+                "I'm Satori, the master of the Palace of the Earth Spirits."
+            ]
+        },
+        "214_0": {
+            "lines": [
+                "No one can hide anything from me.",
+                "Your heart is in plain sight to me."
+            ]
+        },
+        "222_0": {
+            "lines": [
+                "...Eh?",
+                "What the heck?"
+            ]
+        },
+        "230_0": {
+            "lines": [
+<<<<<<< HEAD
+                "<t$Meiling >(...A satori!",
+=======
+                "<t$Alice >(...A satori!",
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+                "<l$> She's a youkai exiled from the surface.)"
+            ]
+        },
+        "238_0": {
+            "lines": [
+<<<<<<< HEAD
+                "<t$Meiling >(She has an extremely dangerous ability,",
+                "<l$> mind reading. Can't you destroy her third eye?)"
+=======
+                "<t$Alice >(She has an extremely dangerous ability,",
+                "<l$> mind reading. There's no way you can win.)"
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "246_0": {
+            "lines": [
+<<<<<<< HEAD
+                "Nothing I can't overcome, I'm sure,"
+=======
+                "Yuck, I don't like this."
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "254_0": {
+            "lines": [
+<<<<<<< HEAD
+                "<t$Meiling >(I can't believe we were led here just by",
+=======
+                "<t$Alice >(I can't believe we were led here just by",
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+                "<l$> investigating that geyser.)"
+            ]
+        },
+        "262_0": {
+            "lines": [
+<<<<<<< HEAD
+                "<t$Meiling >(Perhaps the oni back there",
+=======
+                "<t$Alice >(Perhaps the oni back there",
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+                "<l$> tricked us?)"
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "I didn't think oni were such liars, though...",
+                "Maybe she knows something?"
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "...\"Mind reading, that sounds like a lie.\""
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Oh?!"
+            ]
+        },
+        "294_0": {
+            "lines": [
+                "...\"Anyway, everything'll be fine if I beat her, right?\"",
+                "I see."
+            ]
+        },
+        "302_0": {
+            "lines": [
+                "...\"What a pain, let's just fight.\"",
+                "I see. How belligerent."
+            ]
+        },
+        "310_0": {
+            "lines": [
+<<<<<<< HEAD
+                "<t$Meiling >(Flandre... You....)"
+=======
+                "<t$Alice >(Marisa... You....)"
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "318_0": {
+            "lines": [
+                "Don't worry. Seems like",
+                "she can really read minds, though."
+            ]
+        },
+        "326_0": {
+            "lines": [
+                "Right now, I'm not thinking about anything else",
+                "but fighting her!"
+            ]
+        },
+        "334_0": {
+            "lines": [
+                "Hm, I can see it.",
+                "My mind-reading third eye will show me your very heart!"
+            ]
+        },
+        "342_0": {
+            "lines": [
+                "An image of battle...",
+                "I think I can use this to make you suffer."
+            ]
+        }
+    },
+    "2": {
+        "30_0": {
+            "lines": [
+                "Now, this is where it really begins!"
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "Go and sleep with a trauma so",
+                "frightful, it'll wake you up!"
+            ]
+        }
+    },
+    "1": {
+        "30_0": {
+            "lines": [
+                "You're pretty strong,",
+                "But you didn't come here to beat me."
+            ]
+        },
+        "38_0": {
+            "lines": [
+                "If you can read minds, then there's no need to lie."
+            ]
+        },
+        "46_0": {
+            "lines": [
+                "Oh, that's right! I came to discover the secrets of the geyser!",
+                "And then that oni told me to come to this mansion..."
+            ]
+        },
+        "54_0": {
+            "lines": [
+                "You should've said that from the beginning.",
+                "I wouldn't have had to fight you..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "...If a geyser's causing you trouble, then",
+                "it's probably my pet's doing."
+            ]
+        },
+        "70_0": {
+            "lines": [
+<<<<<<< HEAD
+                "<t$Meiling >(Pet?",
+=======
+                "<t$Alice >(Pet?",
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+                "<l$> Oh, like that cat?)"
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "If you want to find out more,",
+                "I'll open the courtyard for you."
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "The courtyard?",
+                "Your pet's there, right?"
+            ]
+        },
+        "94_0": {
+            "lines": [
+                "No, the courtyard has a hole that leads down",
+                "to the depths of the underworld."
+            ]
+        },
+        "102_0": {
+            "lines": [
+                "Hey, so I guess this place isn't",
+<<<<<<< HEAD
+                "the source off the incident?"
+=======
+                "the last dungeon?"
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "110_0": {
+            "lines": [
+<<<<<<< HEAD
+                "<t$Meiling >(We still have a long way to go. Let's go to",
+=======
+                "<t$Alice >(We still have a long way to go. Let's go to",
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+                "<l$> the depths of the underworld. Hang in there.)"
+            ]
+        },
+        "118_0": {
+            "lines": [
+<<<<<<< HEAD
+                "\"Before that, I want to destroy that eye...\" you think."
+=======
+                "\"Before that, let's search the house....\" you think."
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I won't allow that.",
+                "Please head to the courtyard immediately."
+            ]
+        },
+        "134_0": {
+            "lines": [
+<<<<<<< HEAD
+                "Oh!"
+=======
+                "Damn."
+>>>>>>> 821ea9987dbaed74e88269b232526d84212c6417
+            ]
+        }
+    }
+}
