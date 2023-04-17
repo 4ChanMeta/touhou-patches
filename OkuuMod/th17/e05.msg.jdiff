@@ -1,0 +1,106 @@
+{
+    "0": {
+        "0_0": {
+            "lines": [
+                "<ts$Yachie  $Marisa  >The palance of Earth Spirits"
+            ]
+        },
+        "1_0": {
+            "lines": [
+                "A mansion in former hell."
+            ]
+        },
+        "2_0": {
+            "lines": [
+                "<r$Okuu  >\"...So that's what happened."
+            ]
+        },
+        "3_0": {
+            "lines": [
+                "<l$> I still can't really make heads or tails of it.",
+                "<l$> But it should be over now.\""
+            ]
+        },
+        "4_0": {
+            "lines": [
+                "<r$Satori  >\"I see. Thank you for your insight.\""
+            ]
+        },
+        "5_0": {
+            "lines": [
+                "<r$Satori  >\"Thanks to you, we'll be fine for a while.",
+                "<l$> You've been a great help. You are dismissed.\""
+            ]
+        },
+        "6_0": {
+            "lines": [
+                "<r$Okuu  >\"Ahh. In the end I still don't really know",
+                "<l$> what I was fighting with, and what I got caught up in...\""
+            ]
+        },
+        "7_0": {
+            "lines": [
+                "<r$Rin  >\"Well, do you think you did the right thing?",
+                "<l$> Even if you didn't, you were being possessed, so it's fine."
+            ]
+        },
+        "8_0": {
+            "lines": [
+                "<l$> Just make sure you don't have whatever it is anymore, though.\""
+            ]
+        },
+        "9_0": {
+            "lines": [
+                "<r$Okuu  >\"I don't think that deep. It'll probably be fine, though.",
+                "<l$> There were a bunch of weird people, and some others I didn't quite meet."
+            ]
+        },
+        "10_0": {
+            "lines": [
+                "<l$> But it was pretty fun.\""
+            ]
+        },
+        "11_0": {
+            "lines": [
+                "<r$Okuu  >\"Well, I don't really get it, but it's fine. I guess.\""
+            ]
+        },
+        "12_0": {
+            "lines": [
+                "<r$Rin  >\"You should bring me next time."
+            ]
+        },
+        "13_0": {
+            "lines": [
+                "<l$> I'd love to help out.\""
+            ]
+        },
+        "14_0": {
+            "lines": [
+                "But, I did do some snooping. The dragon lady you met earlier is really scary.",
+                "She's probably the one behind all this."
+            ]
+        },
+        "15_0": {
+            "lines": [
+                "Okuu wasn't able to read Yachie's true intentions from her words."
+            ]
+        },
+        "16_0": {
+            "lines": [
+                "Or rather, maybe she simply doesn't care to."
+            ]
+        },
+        "17_0": {
+            "lines": [
+                "<c$Ending No. 05 — Might Makes Right$>"
+            ]
+        },
+        "18_0": {
+            "lines": [
+                "Congratulations!",
+                "Good job on your No Continue Clear!"
+            ]
+        }
+    }
+}
