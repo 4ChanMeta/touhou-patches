@@ -18,7 +18,7 @@
 	"th06/msg1.dat.jdiff": 110286950,
 	"th06/msg2.dat.jdiff": 1117656956,
 	"th06/msg3.dat.jdiff": 260650346,
-	"th06/msg4.dat.jdiff": 1650436568,
+	"th06/msg4.dat.jdiff": 3370580475,
 	"th06/msg5.dat.jdiff": 1729340742,
 	"th06/msg6.dat.jdiff": 3892336575,
 	"th06/msg7.dat.jdiff": 1940147702,
