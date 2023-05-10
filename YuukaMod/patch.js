@@ -4,7 +4,7 @@
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order"
 	],
-	"id": "RinSatsukiMod",
+	"id": "YuukaMod",
 	"servers": [
 		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/YuukaMod/"
 	],
