@@ -1,0 +1,25 @@
+Flanpatch...........................................................................75 files, 7.7 MB
+INRandomMod................................................................................................................................................144 files, 12.3 MB
+KogasaMod................................................................................................................................................144 files, 10.3 MB
+OkuuMod..........................................................................................90 files, 17.5 MB
+ReimuHsifs...........................27 files, 1019.8 KB
+ReimuHsifsPlus......................22 files, 541.5 KB
+RinSatsukiMod.............................29 files, 2.1 MB
+Traceback (most recent call last):
+  File "..\..\..\bin\scripts\repo_update.py", line 209, in <module>
+    repo_build(arg.f, arg.t)
+  File "..\..\..\bin\scripts\repo_update.py", line 200, in repo_build
+    repo_js['patches'][patch_id] = patch_build(
+  File "..\..\..\bin\scripts\repo_update.py", line 131, in patch_build
+    files_js = utils.json_load(os.path.join(f_path, 'files.js'))
+  File "C:\Users\yeetg\Desktop\toohoo\Touhou 8 - Imperishable Night\thcrap\bin\scripts\utils.py", line 30, in json_load
+    return json.load(file, **json_kwargs)
+  File "C:\Python38\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "C:\Python38\lib\json\__init__.py", line 370, in loads
+    return cls(**kw).decode(s)
+  File "C:\Python38\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Python38\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 7 column 1 (char 143)
