@@ -1,0 +1,185 @@
+{
+    "0": {
+        "60_1": {
+            "lines": [
+                "It sure feels great out."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "There aren't many evil spirits about",
+                "during the day, so I'm trying my luck at night..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "But it's dark out, and",
+                "I'm not sure where to go."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "Still..."
+            ]
+        },
+        "84_0": {
+            "lines": [
+                "It's so romantic out behind the shrine at night.",
+                "(← carefree)"
+            ]
+        },
+        "124_0": {
+            "lines": [
+                "Isn't it, though?",
+                "Monsters come out too; it's simply wonderful."
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Wait a minute, who are you?"
+            ]
+        },
+        "135_h1_0": {
+            "lines": [
+                "Youkai of the Dusk",
+                "<c$Rumia$Youkai of the Dusk>"
+            ]
+        },
+        "136_0": {
+            "lines": [
+                "We saw each other just a moment",
+                "ago. Are you night-blind?"
+            ]
+        },
+        "137_0": {
+            "lines": [
+                "Humans can't see very well",
+                "in the dark in the first place."
+            ]
+        },
+        "138_0": {
+            "lines": [
+                "Oh? I feel like I've seen people",
+                "who only work at night."
+            ]
+        },
+        "139_0": {
+            "lines": [
+                "I have no problem with you",
+                "grabbing them and eating them for dinner."
+            ]
+        },
+        "140_0": {
+            "lines": [
+                "Ohhh...Is that sooo..."
+            ]
+        },
+        "141_0": {
+            "lines": [
+                "You know, you're in my way."
+            ]
+        },
+        "142_0": {
+            "lines": [
+                "Are you the sort of person I can eat?"
+            ]
+        },
+        "143_0": {
+            "lines": [
+                "Have you ever heard the saying",
+                "\"good medicine tastes bad\"?"
+            ]
+        },
+        "60_0": {
+            "lines": [
+                "It's been a while since my last job."
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Of course, the medicine won't do you any good..."
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "...if you can't get it down in the first place."
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Only a fool would block the sunlight meant to fall on the flowers..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "...with such an ugly mist.",
+                "Let's get this over with quick."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "I hate the night, though."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "There's only strange people around at this hour."
+            ]
+        },
+        "103_0": {
+            "lines": [
+                "Who are you calling a weirdo?"
+            ]
+        },
+        "104_h1_0": {
+            "lines": [
+                "Youkai of the Dusk",
+                "<c$Rumia$Youkai of the Dusk>"
+            ]
+        },
+        "104_0": {
+            "lines": [
+                "Nobody's talking about you."
+            ]
+        },
+        "105_0": {
+            "lines": [
+                "Um, no, of course not."
+            ]
+        },
+        "106_0": {
+            "lines": [
+                "So, why have you come",
+                "out at this time?"
+            ]
+        },
+        "107_0": {
+            "lines": [
+                "I was just out exploring",
+                "for people to eat."
+            ]
+        },
+        "108_0": {
+            "lines": [
+                "It looks to me more like",
+                "you're just here to get in my way."
+            ]
+        }
+    },
+    "11": {
+        "60_0": {
+            "lines": [
+                "I wonder if such simple youkai have enough intelligence"
+            ]
+        },
+        "60_1": {
+            "lines": [
+                "to even count up to ten."
+            ]
+        }
+    }
+}

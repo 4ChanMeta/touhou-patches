@@ -1,0 +1,146 @@
+{
+    "8": {
+        "lines": [
+            "Gensokyo in the summer.",
+            "The sun had come back from its vacation,",
+            "wiping away all of the mist in the air. ",
+            "Thus, it shamelessly brought the Scarlet Devil Mansion and its few windows to light..."
+        ]
+    },
+    "15": {
+        "lines": [
+            "<tl$Sakuya:> \"Ah, sheesh. It's so hot, and there's so much work...",
+            "<l$> This is why having the mist around was nice.\""
+        ]
+    },
+    "18": {
+        "lines": [
+            "<tl$Sakuya:> \"Ah, it's almost snack time...",
+            "<l$> Well, I can prepare it immediately if I stop time.\""
+        ]
+    },
+    "22": {
+        "lines": [
+            "<tl$???:> \"You done yet?\""
+        ]
+    },
+    "25": {
+        "lines": [
+            "<tl$Sakuya:> \"Yes, mistress, I'll be right there.\""
+        ]
+    },
+    "28": {
+        "lines": [
+            "<tl$Sakuya:> \"Sorry to keep you waiting.\""
+        ]
+    },
+    "31": {
+        "lines": [
+            "<tl$Yuuka:> \"Thank you.\""
+        ]
+    },
+    "34": {
+        "lines": [
+            "<tl$Sakuya:> \"Today, we've got a rare tea from the Kandy region.\""
+        ]
+    },
+    "37": {
+        "lines": [
+            "<tl$Yuuka:> \"Parhaps a bit too red for my tastes.\""
+        ]
+    },
+    "40": {
+        "lines": [
+            "<tl$Sakuya:> \"Not only that, the cake has some rare ingredients, too.\""
+        ]
+    },
+    "43": {
+        "lines": [
+            "<tl$Yuuka:> \"Do tell what you put in there? (^^;\""
+        ]
+    },
+    "46": {
+        "lines": [
+            "<tl$Sakuya:> \"Bamboo flowers, and such.\""
+        ]
+    },
+    "49": {
+        "lines": [
+            "<tl$Sakuya:> \"They normally bloom once every 60 years,",
+            "<l$> but I can manipulate time to make them bloom immediately.\""
+        ]
+    },
+    "53": {
+        "lines": [
+            "<tl$Yuuka:> \"Does that make it any tastier?\""
+        ]
+    },
+    "56": {
+        "lines": [
+            "<tl$Sakuya:> \"It makes it a rarity.\""
+        ]
+    },
+    "60": {
+        "lines": [
+            "<tl$Remilia:> \"Hey, what's with you acting as if you own the place?",
+            "<l$> And why are you eating my snack?!\""
+        ]
+    },
+    "64": {
+        "lines": [
+            "<tl$Yuuka:> \"Because it's yours.\""
+        ]
+    },
+    "67": {
+        "lines": [
+            "<tl$Sakuya:> \"Ah, I prepared some for you too, mistress.\""
+        ]
+    },
+    "70": {
+        "lines": [
+            "<tl$Remilia:> \"What's on the menu today?\""
+        ]
+    },
+    "73": {
+        "lines": [
+            "<tl$Sakuya:> \"A rarity.\""
+        ]
+    },
+    "76": {
+        "lines": [
+            "<tl$Remilia:> \"Yay, it's my favorite!\""
+        ]
+    },
+    "79": {
+        "lines": [
+            "<tl$Yuuka:> \"Aren't you a picky eater. (sweat)\""
+        ]
+    },
+    "82": {
+        "lines": [
+            "<tl$Yuuka:> \"It sure is hot out today, huh?\""
+        ]
+    },
+    "85": {
+        "lines": [
+            "<tl$Remilia:> \"Oh, look who's talking. The mist made it cooler, ",
+            "<l$> but you made me get rid of it!\""
+        ]
+    },
+    "89": {
+        "lines": [
+            "<tl$Yuuka:> \"All worth it.\""
+        ]
+    },
+    "92": {
+        "lines": [
+            "Today, too, the summer-colored fantasy brought time to a peaceful halt.",
+            "One can only wonder if its flow will ever resume."
+        ]
+    },
+    "96": {
+        "lines": [
+            "　　Ending No. 5"
+        ]
+    }
+}
