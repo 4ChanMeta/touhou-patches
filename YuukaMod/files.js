@@ -16,7 +16,7 @@
 	"th06/face01c.png": 1923118965,
 	"th06/hitbox_pos.png": 3483206842,
 	"th06/msg1.dat.jdiff": 110286950,
-	"th06/msg2.dat.jdiff": 2765744329,
+	"th06/msg2.dat.jdiff": 1117656956,
 	"th06/msg3.dat.jdiff": 260650346,
 	"th06/msg4.dat.jdiff": 1650436568,
 	"th06/msg5.dat.jdiff": 1729340742,
