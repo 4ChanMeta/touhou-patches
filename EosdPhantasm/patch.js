@@ -3,11 +3,11 @@
 		"nmlgc/base_tsa",
 		"nmlgc/script_latin",
 		"nmlgc/western_name_order",
-		"ExpHP/ExpHP/base_exphp",
-		"ExpHP/ExpHP/anm_leak",
-		"ExpHP/ExpHP/sprite_death_fix",
-		"ExpHP/ExpHP/bullet_cap",
-		"ExpHP/ExpHP/debug_counters"
+		"ExpHP/base_exphp",
+		"ExpHP/anm_leak",
+		"ExpHP/sprite_death_fix",
+		"ExpHP/bullet_cap",
+		"ExpHP/debug_counters"
 	],
 	"id": "EosdPhantasm",
 	"servers": [
