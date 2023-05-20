@@ -8,7 +8,6 @@
 		"ExpHP/ExpHP/sprite_death_fix",
 		"ExpHP/ExpHP/bullet_cap",
 		"ExpHP/ExpHP/debug_counters"
-    }
 	],
 	"id": "EosdPhantasm",
 	"servers": [
