@@ -1,0 +1,669 @@
+{
+    "2": {
+        "60_0": {
+            "lines": [
+                "Aah!",
+                "A human's here again?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "I'm here again."
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "I'm not going down without a fight!",
+                "Not after seeing you fight the sister!"
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "I'll show you",
+                "my best magic!"
+            ]
+        }
+    },
+    "0": {
+        "60_0": {
+            "lines": [
+                "God, it's still so hot."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "And they're still attacking so violently."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Even after defeating that girl",
+                "who went crazy before..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Umm...",
+                "The shrine maiden, in the red-white?"
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Another lunatic?"
+            ]
+        },
+        "247_h1_0": {
+            "lines": [
+                "Shining Sunlight (Scarlet)",
+                "<c$Sunny Milk$Shining Sunlight (Scarlet)>"
+            ]
+        },
+        "247_0": {
+            "lines": [
+                "Here I am."
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "And you are? I don't remember you",
+                "the last time I came either..."
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "I was, but you couldn't see me."
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "Are you the human who defeated all the residents here?"
+            ]
+        },
+        "252_0": {
+            "lines": [
+                "Yes, that's right."
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "I can finally relax a little now..."
+            ]
+        },
+        "254_0": {
+            "lines": [
+                "I can control sunlight, so working for a vampire doesn't make sense...",
+                "But I still ended up being roped in here anyhow."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "I'm not concerned over what happens to fairies."
+            ]
+        },
+        "257_0": {
+            "lines": [
+                "All you lot do is get in my way.",
+                "Most of them are, anyway."
+            ]
+        },
+        "259_0": {
+            "lines": [
+                "But, the fairies..."
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "Ah?"
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "Even if you don't know them,",
+                "they're just trying to play."
+            ]
+        },
+        "263_0": {
+            "lines": [
+                "I don't care about any of that.",
+                "Why did you stay complacent here anyways?"
+            ]
+        },
+        "265_0": {
+            "lines": [
+                "I dont know...I was trying to catch a bug..."
+            ]
+        },
+        "267_0": {
+            "lines": [
+                "Bugs?"
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Jeez, why do I waste my time talking to fairies?"
+            ]
+        },
+        "269_0": {
+            "lines": [
+                "Sakuya!",
+                "That maid Sakuya put me to work!"
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "The human? She's subservient to those devils anyhow.",
+                "What's with you?"
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "She made me a personal caretaker for the sister."
+            ]
+        },
+        "274_0": {
+            "lines": [
+                "That one wanted to join her sister out there."
+            ]
+        },
+        "275_0": {
+            "lines": [
+                "Intruding on my shrine",
+                "and being a nuisance."
+            ]
+        },
+        "277_0": {
+            "lines": [
+                "Don't tell me you wanted to join in after I took care of them."
+            ]
+        },
+        "278_0": {
+            "lines": [
+                "Ahh, well..."
+            ]
+        },
+        "279_0": {
+            "lines": [
+                "I wanted to go too..."
+            ]
+        },
+        "280_0": {
+            "lines": [
+                "Don't!"
+            ]
+        },
+        "281_0": {
+            "lines": [
+                "I couldn't!",
+                "It was raining too hard."
+            ]
+        },
+        "283_0": {
+            "lines": [
+                "You've got special needs, it seems.",
+                "Have you done something in the past?"
+            ]
+        },
+        "285_0": {
+            "lines": [
+                "I couldn't have done anything."
+            ]
+        },
+        "286_0": {
+            "lines": [
+                "Not while they",
+                "were around."
+            ]
+        },
+        "288_0": {
+            "lines": [
+                "A real problem fairy."
+            ]
+        },
+        "289_0": {
+            "lines": [
+                "But with this newfound freedom, I want to play..."
+            ]
+        },
+        "290_0": {
+            "lines": [
+                "What do you want to play?"
+            ]
+        },
+        "291_0": {
+            "lines": [
+                "Danmaku."
+            ]
+        },
+        "292_0": {
+            "lines": [
+                "Oh, making patterns.",
+                "I'm pretty good at that."
+            ]
+        }
+    },
+    "1": {
+        "61_0": {
+            "lines": [
+                "You're no ordinary fairy, are you?",
+                "I've never seen one of you shoot so much."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Forgive me, my sisters..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "I thought I could release all my frustration on you..."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "In your dreams."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Hey, you really seem to be in pretty bad shape."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Yes, I can't even create light anymore..."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "You're free to go wherever you wish."
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "So please, don't come to the shrine."
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Oh, and I was thinking of visiting you",
+                "with cake and tea, in thanks."
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "Try not to bring your kind",
+                "of food to a human's place."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "It's not too sweet, is it?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Even if it's sugar-free!"
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "Good girls go home quietly",
+                "and go to sleep."
+            ]
+        },
+        "78_0": {
+            "lines": [
+                "...But I am home?"
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "So you don't need to go home.",
+                "Fitting for a bad girl."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "I'm going home now."
+            ]
+        },
+        "82_0": {
+            "lines": [
+                "Bad girls don't need to go home."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "...I left another bad girl",
+                "at the shrine, after all."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Who do you mean, bad girl?"
+            ]
+        },
+        "86_0": {
+            "lines": [
+                "Those sisters you took care of!!"
+            ]
+        }
+    },
+    "12": {
+        "60_0": {
+            "lines": [
+                "Aah!",
+                "A human's here again?"
+            ]
+        },
+        "150_0": {
+            "lines": [
+                "Out of my way.",
+                "I don't have the time for this."
+            ]
+        },
+        "221_0": {
+            "lines": [
+                "Not after seeing you ravage here."
+            ]
+        },
+        "282_0": {
+            "lines": [
+                "The little sister, and now you.",
+                "What kind of day is this?!"
+            ]
+        }
+    },
+    "10": {
+        "60_0": {
+            "lines": [
+                "Just how long is this hallway?",
+                "I want to go home and relax already."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Remilia should still be at the shrine right now."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "So why's everyone attacking me",
+                "with so much intensity?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Is someone there?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Nope, nobody's here."
+            ]
+        },
+        "246_0": {
+            "lines": [
+                "Are you the human who defeated the residents here?"
+            ]
+        },
+        "247_0": {
+            "lines": [
+                "Who're you?"
+            ]
+        },
+        "248_0": {
+            "lines": [
+                "Before you ask for a person's name..."
+            ]
+        },
+        "249_0": {
+            "lines": [
+                "Oh, me?"
+            ]
+        },
+        "250_0": {
+            "lines": [
+                "Right. I'm Reimu Hakurei, the shrine maiden."
+            ]
+        },
+        "252_h1_0": {
+            "lines": [
+                "Shining Sunlight (Scarlet)",
+                "<c$Sunny Milk$Shining Sunlight (Scarlet)>"
+            ]
+        },
+        "251_0": {
+            "lines": [
+                "I'm Sunny,",
+                "I saw how you defeated the sister back there, Miss Marisa."
+            ]
+        },
+        "253_0": {
+            "lines": [
+                "So who're you?",
+                "(Why am I talking to a fairy?)"
+            ]
+        },
+        "255_0": {
+            "lines": [
+                "I've been here since the incident started."
+            ]
+        },
+        "256_0": {
+            "lines": [
+                "Even the last time you",
+                "barged in here."
+            ]
+        },
+        "258_0": {
+            "lines": [
+                "You were?"
+            ]
+        },
+        "259_0": {
+            "lines": [
+                "It's not like I wanted to!"
+            ]
+        },
+        "260_0": {
+            "lines": [
+                "But I've been roped in to tend to the sister."
+            ]
+        },
+        "261_0": {
+            "lines": [
+                "Don't all you fairy maids just slack off anyhow?"
+            ]
+        },
+        "262_0": {
+            "lines": [
+                "I was watching when you fought the head maid",
+                "and the mistress."
+            ]
+        },
+        "264_0": {
+            "lines": [
+                "That's right.",
+                "I'm pretty awesome, right?"
+            ]
+        },
+        "266_0": {
+            "lines": [
+                "I've been curious about humans, but now I can",
+                "escape from here."
+            ]
+        },
+        "268_0": {
+            "lines": [
+                "Well, ain't you in luck.",
+                "Here, here, look as much as you like."
+            ]
+        },
+        "270_0": {
+            "lines": [
+                "After watching that, I got all excited. Will you play with me?"
+            ]
+        },
+        "271_0": {
+            "lines": [
+                "What's it worth to ya?"
+            ]
+        },
+        "272_0": {
+            "lines": [
+                "One coin."
+            ]
+        },
+        "273_0": {
+            "lines": [
+                "One coin?",
+                "You can't buy a life with that."
+            ]
+        },
+        "275_0": {
+            "lines": [
+                "I meant that you can't",
+                "use a continue!"
+            ]
+        }
+    },
+    "11": {
+        "61_0": {
+            "lines": [
+                "Well? Had enough yet?"
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Haa, haa...",
+                "I lost in the end..."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Were you really expecting to win as a fairy?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "I'm gonna go home now."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Yes, I've had enough."
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "But don't have to stay here any longer."
+            ]
+        },
+        "68_0": {
+            "lines": [
+                "♪!"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Does that mean you're gonna get yourself in more trouble?"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "Why should I?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "How did you get here in the first place?"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Got lost catching bugs?"
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "Actually, yes..."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "I knew it."
+            ]
+        },
+        "77_0": {
+            "lines": [
+                "I don't know where my friends went.",
+                "And the incident forced the mansion under lockdown."
+            ]
+        },
+        "79_0": {
+            "lines": [
+                "Seriously?",
+                "It didn't feel like much of one."
+            ]
+        },
+        "81_0": {
+            "lines": [
+                "I overheard a lot of plans."
+            ]
+        },
+        "83_0": {
+            "lines": [
+                "But I didn't really care for any of them..."
+            ]
+        },
+        "85_0": {
+            "lines": [
+                "Why did a house of vampires let a fairy",
+                "of sunlight stay here anyways?"
+            ]
+        },
+        "87_0": {
+            "lines": [
+                "I'm confused about that myself.",
+                "But it didn't end up being a big deal in the end."
+            ]
+        },
+        "89_0": {
+            "lines": [
+                "A burnt corpse is pretty ugly."
+            ]
+        },
+        "90_0": {
+            "lines": [
+                "Why didn't you disintegrate them in the first place?"
+            ]
+        },
+        "91_0": {
+            "lines": [
+                "I had my own worries beyond that..."
+            ]
+        },
+        "92_0": {
+            "lines": [
+                "Hey, so, ya wanted to know some humans right?"
+            ]
+        },
+        "93_0": {
+            "lines": [
+                "I have some connections",
+                "to some people you might like..."
+            ]
+        },
+        "95_0": {
+            "lines": [
+                "People like who?"
+            ]
+        },
+        "96_0": {
+            "lines": [
+                "I'll introduce ya to a girl from the shrine."
+            ]
+        }
+    }
+}
