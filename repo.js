@@ -8,6 +8,7 @@
 		"INRandomMod": "INRandom (08) Mod that adds the Aki sisters, Nitori, Takane, Kaguya, and Doremy to Touhou 08 Imperishable Night",
 		"KogasaMod": "Kogasa Mod (08) Mod that adds Kogasa, Koishi, Satori, Mugetsu, and Gengetsu to Touhou 08 Imperishable Night",
 		"OkuuMod": "OkuuMod (17) Mod that adds Utsuho Reiuji to Touhou WBaWC.",
+		"Pizzanae": "Pizzanae (15) Pizzanae",
 		"ReimuHsifs": "ReimuHsifs (06-18) Mod that makes Reimu's homing bullets look like the ones from Hsifs.",
 		"ReimuHsifsPlus": "ReimuHsifsPlus (13-18) ReimuHsifs mod but makes the bullets behave like hsifs too (perma homing).",
 		"RinSatsukiMod": "RinSatsuki (06) Mod that adds Rin Satsuki to Touhou EOSD Embodiment of Scarlet Devil",
