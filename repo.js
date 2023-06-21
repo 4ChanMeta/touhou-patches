@@ -13,6 +13,7 @@
 		"ReimuHsifsPlus": "ReimuHsifsPlus (13-18) ReimuHsifs mod but makes the bullets behave like hsifs too (perma homing).",
 		"RinSatsukiMod": "RinSatsuki (06) Mod that adds Rin Satsuki to Touhou EOSD Embodiment of Scarlet Devil",
 		"SALW": "SALW (11) Old LW test stuff. Unfinished and likely never will be, mess around with it how you like.",
+		"SakuyaScarf": "SakuyaScarf (07) Mod that adds Sakuya's scarf to her player sprite for PCB. Mod by pure_platinum_killer",
 		"YukariCtcMod": "YukariCtc (07) Mod that replaces Yukari's PCB theme with the CTC Night Falls ~ Evening Star and Ran's theme with her ghostly field club one.",
 		"YuukaMod": "YuukaMod (06) Mod that makes Yuuka playable in EoSD Embodiment of Scarlet Devil"
 	},
