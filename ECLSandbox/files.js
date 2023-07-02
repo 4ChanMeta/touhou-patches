@@ -20,6 +20,7 @@
 	"th08/ecldata_rm_rdf.ecl": 2027808517,
 	"th08/ecldata_rm_selfxselfy.ecl": 18999070,
 	"th08/ecldata_sk.ecl": 2904639935,
+	"th08/ecldata_yk.ecl": 635594688,
 	"th095/ecl19_d1.ecl": 186234662,
 	"th095/ecl23_b.ecl": 1243900753,
 	"th10/stage06.ecl": 3476963325,
