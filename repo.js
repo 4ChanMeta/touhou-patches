@@ -2,6 +2,7 @@
 	"contact": "Kogasa📈#8100",
 	"id": "Kogasa",
 	"patches": {
+		"DDCSakuya": "DDCSakuya (14) Minor DPS balance adjustments for Sakuya",
 		"ECLSandbox": "Various random ECL tests I've done in case you want them for some reason.",
 		"EosdPhantasm": "EosdPhantasm (06) Eosd Phantasm Stage featuring Sunny Milk?!",
 		"Flanpatch": "FlanPatch (11) (WIP) Mod that makes Flandre playable in SA.",
