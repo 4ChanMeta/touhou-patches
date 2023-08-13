@@ -6,7 +6,7 @@
 	],
 	"id": "ReimuHsifsPlus",
 	"servers": [
-		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/ReimuHsifsPlus/"
+		"https://mirrors.thpatch.net/Kogasas_Mods/ReimuHsifsPlus/"
 	],
 	"title": "ReimuHsifsPlus (13-18) ReimuHsifs mod but makes the bullets behave like hsifs too (perma homing)."
 }

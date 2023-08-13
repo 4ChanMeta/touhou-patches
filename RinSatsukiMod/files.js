@@ -1,5 +1,5 @@
 {
-	"patch.js": 2703183431,
+	"patch.js": 2035290899,
 	"stringdefs.js": 1128936918,
 	"th06/end00.end.jdiff": 168466096,
 	"th06/end00.jpg": 335238649,

@@ -11,7 +11,7 @@
 	],
 	"id": "ECLSandbox",
 	"servers": [
-		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/ECLSandbox/"
+		"https://mirrors.thpatch.net/Kogasas_Mods/ECLSandbox/"
 	],
 	"title": "Various random ECL tests I've done in case you want them for some reason."
 }

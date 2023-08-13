@@ -1,5 +1,5 @@
 {
-	"patch.js": 4262415071,
+	"patch.js": 432134778,
 	"stringdefs.js": 1577646106,
 	"th08.v1.00d.js": 3201115413,
 	"th08/data/ascii/ascii.png": 2229493875,

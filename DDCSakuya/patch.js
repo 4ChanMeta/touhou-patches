@@ -11,7 +11,7 @@
 	],
 	"id": "DDCSakuya",
 	"servers": [
-		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/DDCSakuya/"
+		"https://mirrors.thpatch.net/Kogasas_Mods/DDCSakuya/"
 	],
 	"title": "DDCSakuya (14) Minor DPS balance adjustments for Sakuya"
 }

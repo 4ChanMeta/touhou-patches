@@ -6,7 +6,7 @@
 	],
 	"id": "SakuyaScarf",
 	"servers": [
-		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/SakuyaScarf/"
+		"https://mirrors.thpatch.net/Kogasas_Mods/SakuyaScarf/"
 	],
 	"title": "SakuyaScarf (07) Mod that adds Sakuya's scarf to her player sprite for PCB. Mod by pure_platinum_killer"
 }

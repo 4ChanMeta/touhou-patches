@@ -6,7 +6,7 @@
 	],
 	"id": "KogasaMod",
 	"servers": [
-		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/KogasaMod/"
+		"https://mirrors.thpatch.net/Kogasas_Mods/KogasaMod/"
 	],
 	"title": "Kogasa Mod (08) Mod that adds Kogasa, Koishi, Satori, Mugetsu, and Gengetsu to Touhou 08 Imperishable Night"
 }

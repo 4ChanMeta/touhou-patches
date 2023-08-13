@@ -6,7 +6,7 @@
 	],
 	"id": "Flanpatch",
 	"servers": [
-		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/Flanpatch/"
+		"https://mirrors.thpatch.net/Kogasas_Mods/Flanpatch/"
 	],
 	"title": "FlanPatch (11) (WIP) Mod that makes Flandre playable in SA."
 }

@@ -11,7 +11,7 @@
 	],
 	"id": "EosdPhantasm",
 	"servers": [
-		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/EosdPhantasm/"
+		"https://mirrors.thpatch.net/Kogasas_Mods/EosdPhantasm/"
 	],
 	"title": "EosdPhantasm (06) Eosd Phantasm Stage featuring Sunny Milk?!"
 }

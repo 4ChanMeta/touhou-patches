@@ -1,5 +1,5 @@
 {
-	"patch.js": 1808903216,
+	"patch.js": 1755054415,
 	"th07/msg7.dat.jdiff": 1496961163,
 	"th07/musiccmt.txt": null,
 	"th07/spells.js": 53594422,

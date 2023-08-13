@@ -6,7 +6,7 @@
 	],
 	"id": "YuukaMod",
 	"servers": [
-		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/YuukaMod/"
+		"https://mirrors.thpatch.net/Kogasas_Mods/YuukaMod/"
 	],
 	"title": "YuukaMod (06) Mod that makes Yuuka playable in EoSD Embodiment of Scarlet Devil"
 }

@@ -20,7 +20,7 @@
 		"mokers": "MokouTheme (08) Mod that replaces Mokou's theme to be https://www.youtube.com/watch?v=F2MmslJ3T7o"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/4ChanMeta/touhou-patches/main/"
+		"https://mirrors.thpatch.net/Kogasas_Mods/"
 	],
 	"title": "Kogasa's Mods"
 }
