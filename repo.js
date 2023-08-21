@@ -8,7 +8,7 @@
 		"Flanpatch": "FlanPatch (11) (WIP) Mod that makes Flandre playable in SA.",
 		"INRandomMod": "INRandom (08) Mod that adds the Aki sisters, Nitori, Takane, Kaguya, and Doremy to Touhou 08 Imperishable Night",
 		"KogasaMod": "Kogasa Mod (08) Mod that adds Kogasa, Koishi, Satori, Mugetsu, and Gengetsu to Touhou 08 Imperishable Night",
-		"NoHitbox": "NoHitbox (6-18) This mod that removes visible player hitboxes, for weirdos who like that.",
+		"NoHitbox": "NoHitbox (07-18) This mod that removes visible player hitboxes, for weirdos who like that.",
 		"OkuuMod": "OkuuMod (17) Mod that adds Utsuho Reiuji to Touhou WBaWC.",
 		"Pizzanae": "Pizzanae (15) Pizzanae",
 		"ReimuHsifs": "ReimuHsifs (06-18) Mod that makes Reimu's homing bullets look like the ones from Hsifs.",
