@@ -1,0 +1,20 @@
+{
+	"patch.js": 1131948278,
+	"th07/data/etama/etama2.png": 3353961346,
+	"th08/data/etama/etama2.png": 454640044,
+	"th09/data/etama/etama2.png": 538574978,
+	"th10/bullet/etama2.png": 3875597120,
+	"th11/bullet/etama2.png": 2299275613,
+	"th12/bullet/etama2.png": 1514060892,
+	"th13/effect/eff_base.png": 1287809330,
+	"th14/effect/eff_base.png": 3003120775,
+	"th14/effect/eff_sloweffect.png": 1771273570,
+	"th15/effect/eff_base.png": 3003120775,
+	"th15/effect/eff_sloweffect.png": 1771273570,
+	"th16/effect/eff_base.png": 3003120775,
+	"th16/effect/eff_sloweffect.png": 1771273570,
+	"th17/effect/eff_base.png": 3003120775,
+	"th17/effect/eff_sloweffect.png": 1771273570,
+	"th18/effect/eff_base.png": 3003120775,
+	"th18/effect/eff_sloweffect.png": 1771273570
+}
