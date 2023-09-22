@@ -16,6 +16,7 @@
 		"RinSatsukiMod": "RinSatsuki (06) Mod that adds Rin Satsuki to Touhou EOSD Embodiment of Scarlet Devil",
 		"SALW": "SALW (11) Old LW test stuff. Unfinished and likely never will be, mess around with it how you like.",
 		"SakuyaScarf": "SakuyaScarf (07) Mod that adds Sakuya's scarf to her player sprite for PCB. Mod by pure_platinum_killer",
+		"SakuyaTouhou19": "SakuyaTouhou19 (19) Makes Sakuya Izayoi a playable character in touhou UDoALG. Mod by Perfect_Platinum_Killer uploaded with consent",
 		"YukariCtcMod": "YukariCtc (07) Mod that replaces Yukari's PCB theme with the CTC Night Falls ~ Evening Star and Ran's theme with her ghostly field club one.",
 		"YuukaMod": "YuukaMod (06) Mod that makes Yuuka playable in EoSD Embodiment of Scarlet Devil",
 		"mokers": "MokouTheme (08) Mod that replaces Mokou's theme to be https://www.youtube.com/watch?v=F2MmslJ3T7o"
