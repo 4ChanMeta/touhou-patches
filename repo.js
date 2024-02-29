@@ -1,5 +1,5 @@
 {
-	"contact": "Kogasa📈#8100",
+	"contact": "medicine.melancholy",
 	"id": "Kogasa",
 	"patches": {
 		"DDCSakuya": "DDCSakuya (14) Minor DPS balance adjustments for Sakuya",
