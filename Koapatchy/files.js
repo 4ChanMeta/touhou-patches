@@ -45,7 +45,7 @@
 	"th08/msg1a.dat.jdiff": 749459888,
 	"th08/msg2a.dat.jdiff": 1559707535,
 	"th08/msg3a.dat.jdiff": 1976214884,
-	"th08/msg4ba.dat.jdiff": 4080807999,
+	"th08/msg4ba.dat.jdiff": 1201128710,
 	"th08/msg5a.dat.jdiff": 436521926,
 	"th08/msg6a.dat.jdiff": 2911901460,
 	"th08/msg7a.dat.jdiff": 635033237,
