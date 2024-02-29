@@ -7,6 +7,7 @@
 		"EosdPhantasm": "EosdPhantasm (06) Eosd Phantasm Stage featuring Sunny Milk?!",
 		"Flanpatch": "FlanPatch (11) (WIP) Mod that makes Flandre playable in SA.",
 		"INRandomMod": "INRandom (08) Mod that adds the Aki sisters, Nitori, Takane, Kaguya, and Doremy to Touhou 08 Imperishable Night",
+		"Koapatchy": "Koapatchy (08) Mod that adds Koakuma and Patchouli as playable characters to Touhou 08 Imperishable Night",
 		"KogasaMod": "Kogasa Mod (08) Mod that adds Kogasa, Koishi, Satori, Mugetsu, and Gengetsu to Touhou 08 Imperishable Night",
 		"NoHitbox": "NoHitbox (07-18) This mod that removes visible player hitboxes, for weirdos who like that.",
 		"OkuuMod": "OkuuMod (17) Mod that adds Utsuho Reiuji to Touhou WBaWC.",

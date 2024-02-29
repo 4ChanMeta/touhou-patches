@@ -1,0 +1,127 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Sigh, there's nothing out here."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "That's not a bad thing. I don't want to fight too much.",
+                "Aside from that, there's no need to hurry."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "But this is my first time resolving an incident.",
+                "Although I don't like how the mistress dragged us out for it."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "She was saying it'd be better to split up or something.",
+				"Well, let's just try to make the most of it."
+            ]
+        },
+        "63_1": {
+            "lines": [
+                "Hey, you've been saying \"nothing here\" for a while now...",
+                "I'm here, aren't I?!"
+            ]
+        },
+        "124_h1_0": {
+            "lines": [
+                "Insect of Light Wriggling in Darkness"
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "Here's someone to take your energy out on."
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "I'll leave it to you.",
+                "It's not like I'm you."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Hey, hey, hey!"
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "You've got some guts, not being bugged by me."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "I hope you've got the determination to match that!"
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "Was that a pun?"
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "Was it?"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "That reminds me, didn't you have something",
+                "for this? Back at the library?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "?"
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "I know what you're trying to say.",
+                "Mosquito repellant magic, right?"
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "I'm a firefly!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Really, it's awful at night with all these bugs around.",
+				"They get in the way of my books."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Says the one who's only awake at night."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "It's more comfortable to sleep during the day.",
+				"For various reasons."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "There've been lots of fireflies, lately...",
+                "I overheard Meiling complaining about it."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "You understand then, don't you?",
+                "It's not like you to be involved there, though."
+            ]
+        }
+    }
+}
