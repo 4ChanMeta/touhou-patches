@@ -1,0 +1,42 @@
+{
+    "input": "seija_talk.obj",
+    "output": "th14.v1.00b.js",
+    "prefix": "seija_talk",
+    "options": {
+        
+    },
+    "externs": {
+        "?FlushSprites@CAnmManager@@QAEXXZ": {
+            "addr": "0x475EB0"
+        },
+        "?DrawSprite@CAnmManager@@QAEHPAVCAnmVM@@@Z": {
+            "addr": "0x478F60"
+        },
+        "?PreloadAnm@CAnmManager@@QAEPAVCAnmFile@@IPBD@Z": {
+            "addr": "0x47CFF0"
+        },
+        "?Instance@CFront@@2PAV1@A": {
+            "addr": "0x4DB550"
+        },
+        "?Instance@CStage@@2PAV1@A": {
+            "addr": "0x4DB528"
+        }
+    },
+    "imports": {
+        
+    },
+    "binhacks": {
+        "seija_talk_draw_sprite": {
+            "addr": "0x47E84E",
+            "code": "E8 [obj:_draw_sprite_hook]"
+        },
+        "seija_talk_preload_anm_1": {
+            "addr": "0x422565",
+            "code": "E8 [obj:_preload_anm_hook]"
+        },
+        "seija_talk_preload_anm_2": {
+            "addr": "0x47D0C9",
+            "code": "E8 [obj:_preload_anm_hook]"
+        }
+    }
+}
